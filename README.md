@@ -2,19 +2,17 @@
 My private record of Leetcode solution
 updating...
 
-* * * 
-
-## Bit Manipulation
+#### Bit Manipulation
 LeetCode  136.Single Number
 
-## Array
+#### Array
 
-## Linkedlist
+#### Linkedlist
 
-## Stack & Queue
+#### Stack & Queue
 
-## Tree
+#### Tree
 
-## DP
+#### DP
 According to the idea [resources](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target)
-### Minimum (Maximum) Path to Reach a Target
+**Minimum (Maximum) Path to Reach a Target
