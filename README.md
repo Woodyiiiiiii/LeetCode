@@ -7,7 +7,7 @@ updating...
 
 **Bit Manipulation**
 
-* [136.Single Number](https://github.com/Woodyiiiiiii/LeetCode/issues)
+* [136.Single Number](https://github.com/Woodyiiiiiii/LeetCode/issues/2)
 
 
 **Array**
