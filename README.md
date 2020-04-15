@@ -3,7 +3,7 @@ My private record of Leetcode solution
 updating...
 
 **Bit Manipulation**
-LeetCode  136.Single Number
+[136.Single Number](https://github.com/Woodyiiiiiii/LeetCode/issues)
 
 **Array**
 
