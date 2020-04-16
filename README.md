@@ -12,6 +12,7 @@ updating...
 * [260. Single Number III](https://github.com/Woodyiiiiiii/LeetCode/issues/4)
 * [191. Number of 1 Bits](https://github.com/Woodyiiiiiii/LeetCode/issues/4)
 * [268. Missing Number](https://github.com/Woodyiiiiiii/LeetCode/issues/6)
+* [231. Power of Two](https://github.com/Woodyiiiiiii/LeetCode/issues/7)
 
 * * *
 
