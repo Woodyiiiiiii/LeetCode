@@ -38,9 +38,22 @@ updating...
 
 **DP**
 
-According to the idea [resources](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target).
+>According to the idea [resources](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target).
 
 1.Minimum (Maximum) Path to Reach a Target
-* dad
+* one
+
+2.Distinct Ways
+* one
+
+3.Merging Intervals
+* one
+
+4.DP on Strings
+* one
+
+5.Decision Making
+* one
+
 
 * * *
