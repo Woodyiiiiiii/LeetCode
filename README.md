@@ -7,10 +7,11 @@ updating...
 
 **Bit Manipulation**
 
-* [136.Single Number](https://github.com/Woodyiiiiiii/LeetCode/issues/2)
-* [137.Single Number II](https://github.com/Woodyiiiiiii/LeetCode/issues/3)
-* [260.Single Number III](https://github.com/Woodyiiiiiii/LeetCode/issues/4)
-* [191.Number of 1 Bits](https://github.com/Woodyiiiiiii/LeetCode/issues/4)
+* [136. Single Number](https://github.com/Woodyiiiiiii/LeetCode/issues/2)
+* [137. Single Number II](https://github.com/Woodyiiiiiii/LeetCode/issues/3)
+* [260. Single Number III](https://github.com/Woodyiiiiiii/LeetCode/issues/4)
+* [191. Number of 1 Bits](https://github.com/Woodyiiiiiii/LeetCode/issues/4)
+* [268. Missing Number](https://github.com/Woodyiiiiiii/LeetCode/issues/6)
 
 * * *
 
