@@ -38,22 +38,29 @@ updating...
 
 **DP**
 
->According to the idea [resources](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target).
+>**According to the idea [resources](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target).**
 
-1.Minimum (Maximum) Path to Reach a Target
-* one
 
-2.Distinct Ways
-* one
+**1.Minimum (Maximum) Path to Reach a Target**
 
-3.Merging Intervals
-* one
+>Statement: Given a target find minimum (maximum) cost / path / sum to reach the target.
+>Approach: Choose minimum (maximum) path among all possible paths before the current state, then add value for the current state.
+>routes[i] = min(routes[i-1], routes[i-2], ... , routes[i-k]) + cost[i]
 
-4.DP on Strings
-* one
+Similar Problems:
 
-5.Decision Making
-* one
+
+**2.Distinct Ways**
+
+
+**3.Merging Intervals**
+
+
+**4.DP on Strings**
+
+
+**5.Decision Making**
+
 
 
 * * *
