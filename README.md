@@ -52,6 +52,36 @@ updating...
 
 Similar Problems:
 
+[746. Min Cost Climbing Stairs](https://github.com/Woodyiiiiiii/LeetCode/issues/8)
+```
+for (int i = 2; i <= n; ++i) {
+   dp[i] = min(dp[i-1], dp[i-2]) + (i == n ? 0 : cost[i]);
+}
+ 
+return dp[n]
+```
+[64. Minimum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/9)
+```
+for (int i = 1; i < n; ++i) {
+   for (int j = 1; j < m; ++j) {
+       grid[i][j] = min(grid[i-1][j], grid[i][j-1]) + grid[i][j];
+   }
+}
+ 
+return grid[n-1][m-1]
+```
+[322. Coin Change](https://github.com/Woodyiiiiiii/LeetCode/issues/10)
+```
+for (int j = 1; j <= amount; ++j) {
+   for (int i = 0; i < coins.size(); ++i) {
+       if (coins[i] <= j) {
+           dp[j] = min(dp[j], dp[j - coins[i]] + 1);
+       }
+   }
+}
+```
+[931. Minimum Falling Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/11)
+
 
 **2.Distinct Ways**
 
