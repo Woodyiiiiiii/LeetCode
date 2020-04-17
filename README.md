@@ -49,6 +49,17 @@ updating...
 
 >routes[i] = min(routes[i-1], routes[i-2], ... , routes[i-k]) + cost[i]
 
+```
+for (int i = 1; i <= target; ++i) {
+   for (int j = 0; j < ways.size(); ++j) {
+       if (ways[j] <= i) {
+           dp[i] = min(dp[i], dp[i - ways[j]] + cost / path / sum) ;
+       }
+   }
+}
+ 
+return dp[target]
+```
 
 Similar Problems:
 
@@ -85,6 +96,57 @@ for (int j = 1; j <= amount; ++j) {
 
 **2.Distinct Ways**
 
+>Statement:Given a target find a number of distinct ways to reach the target.
+
+>Approach:Sum all possible ways to reach the current state.
+
+>routes[i] = routes[i-1] + routes[i-2], ... , + routes[i-k]
+
+```
+for (int i = 1; i <= target; ++i) {
+   for (int j = 0; j < ways.size(); ++j) {
+       if (ways[j] <= i) {
+           dp[i] += dp[i - ways[j]];
+       }
+   }
+}
+ 
+return dp[target]
+```
+
+Similar Problems:
+
+[70. Climbing Stairs](https://github.com/Woodyiiiiiii/LeetCode/issues/12)
+```
+for (int stair = 2; stair <= n; ++stair) {
+   for (int step = 1; step <= 2; ++step) {
+       dp[stair] += dp[stair-step];   
+   }
+}
+```
+[62. Unique Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/13)
+```
+for (int i = 1; i < m; ++i) {
+   for (int j = 1; j < n; ++j) {
+       dp[i][j] = dp[i][j-1] + dp[i-1][j];
+   }
+}
+```
+[1155. Number of Dice Rolls With Target Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/14)
+```
+for (int rep = 1; rep <= d; ++rep) {
+   vector<int> new_ways(target+1);
+   for (int already = 0; already <= target; ++already) {
+       for (int pipe = 1; pipe <= f; ++pipe) {
+           if (already - pipe >= 0) {
+               new_ways[already] += ways[already - pipe];
+               new_ways[already] %= mod;
+           }
+       }
+   }
+   ways = new_ways;
+}
+```
 
 **3.Merging Intervals**
 
