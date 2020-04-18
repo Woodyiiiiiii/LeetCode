@@ -18,6 +18,8 @@ updating...
 
 **Array**
 
+* [54. Spiral Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/15)
+* [59. Spiral Matrix II](https://github.com/Woodyiiiiiii/LeetCode/issues/16)
 
 * * *
 
