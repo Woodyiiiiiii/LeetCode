@@ -44,7 +44,7 @@ updating...
 
 **DP**
 
->**According to the idea [resources](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target).**
+>**According to the idea [https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target).**
 
 
 **1.Minimum (Maximum) Path to Reach a Target**
