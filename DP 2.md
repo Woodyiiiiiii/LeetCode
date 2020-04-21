@@ -18,7 +18,9 @@ According to [https://www.zhihu.com/collection/179776300](https://www.zhihu.com/
 
 #### 1. 线性DP
 
-* [300. Longest Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/20)
+* [300. Longest Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/20)(经典单串)
+
+* [1143. Longest Common Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/21)(经典双串)
 
 
 #### 2. 区间DP
