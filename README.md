@@ -58,4 +58,6 @@ updating...
 
 * [300. Longest Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/20)
 
+* [1143. Longest Common Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/21)
+
 * * *
