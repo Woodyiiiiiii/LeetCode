@@ -1,5 +1,5 @@
 # LeetCode
-My private record of Leetcode solution used by Java language.
+My private record of Leetcode solution using Java language.
 
 updating...
 
