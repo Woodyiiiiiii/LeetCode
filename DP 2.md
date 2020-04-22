@@ -22,6 +22,8 @@ According to [https://www.zhihu.com/collection/179776300](https://www.zhihu.com/
 
 * [1143. Longest Common Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/21)(经典双串)
 
+* [120. Triangle](https://github.com/Woodyiiiiiii/LeetCode/issues/22)
+
 
 #### 2. 区间DP
 
