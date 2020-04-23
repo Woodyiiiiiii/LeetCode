@@ -31,6 +31,11 @@ According to [https://www.zhihu.com/collection/179776300](https://www.zhihu.com/
 
 #### 3. 背包DP
 
+* [322. Coin Change](https://github.com/Woodyiiiiiii/LeetCode/issues/10)
+
+* [518. Coin Change 2](https://github.com/Woodyiiiiiii/LeetCode/issues/24)
+
+
 #### 4. 树形DP
 
 #### 5. 状态压缩DP
