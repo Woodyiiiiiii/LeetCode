@@ -24,6 +24,8 @@ According to [https://www.zhihu.com/collection/179776300](https://www.zhihu.com/
 
 * [120. Triangle](https://github.com/Woodyiiiiiii/LeetCode/issues/22)
 
+* [53. Maximum Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/23)
+
 
 #### 2. 区间DP
 
