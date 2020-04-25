@@ -42,6 +42,11 @@ updating...
 **Stack & Queue**
 
 * * *
+**String**
+
+* [5. Longest Palindromic Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/28)
+
+* * *
 
 **Tree**
 
@@ -79,5 +84,7 @@ updating...
 * [53. Maximum Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/23)
 
 * [518. Coin Change 2](https://github.com/Woodyiiiiiii/LeetCode/issues/24)
+
+* [5. Longest Palindromic Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/28)
 
 * * *
