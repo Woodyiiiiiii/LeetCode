@@ -38,7 +38,13 @@ According to [https://www.zhihu.com/collection/179776300](https://www.zhihu.com/
 
 #### 4. 树形DP
 
+* [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/25)
+
+* [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18)
+
 * [543. Diameter of Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/29)
+
+
 
 #### 5. 状态压缩DP
 
