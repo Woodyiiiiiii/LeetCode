@@ -41,10 +41,14 @@ updating...
 
 **Stack & Queue**
 
+* [20. Valid Parentheses](https://github.com/Woodyiiiiiii/LeetCode/issues/30)
+
 * * *
 **String**
 
 * [5. Longest Palindromic Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/28)
+
+* [8. String to Integer (atoi)](https://github.com/Woodyiiiiiii/LeetCode/issues/31)
 
 * * *
 
@@ -86,5 +90,7 @@ updating...
 * [518. Coin Change 2](https://github.com/Woodyiiiiiii/LeetCode/issues/24)
 
 * [5. Longest Palindromic Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/28)
+
+* [543. Diameter of Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/29)
 
 * * *
