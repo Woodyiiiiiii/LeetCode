@@ -54,8 +54,6 @@ updating...
 
 **Tree**
 
-* [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18)
-
 * [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/25)
 
 * [98. Validate Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/26)
@@ -63,7 +61,6 @@ updating...
 * * *
 
 **DP**
-
 
 * [746. Min Cost Climbing Stairs](https://github.com/Woodyiiiiiii/LeetCode/issues/8)
 
@@ -90,6 +87,8 @@ updating...
 * [518. Coin Change 2](https://github.com/Woodyiiiiiii/LeetCode/issues/24)
 
 * [5. Longest Palindromic Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/28)
+
+* [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18)
 
 * [543. Diameter of Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/29)
 
