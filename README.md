@@ -54,8 +54,6 @@ updating...
 
 **Tree**
 
-* [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/25)
-
 * [98. Validate Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/26)
 
 * * *
@@ -87,6 +85,8 @@ updating...
 * [518. Coin Change 2](https://github.com/Woodyiiiiiii/LeetCode/issues/24)
 
 * [5. Longest Palindromic Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/28)
+
+* [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/25)
 
 * [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18)
 
