@@ -38,6 +38,8 @@ According to [https://www.zhihu.com/collection/179776300](https://www.zhihu.com/
 
 #### 4. 树形DP
 
+* [543. Diameter of Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/29)
+
 #### 5. 状态压缩DP
 
 #### 6. 数位DP
