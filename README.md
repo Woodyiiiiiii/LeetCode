@@ -56,6 +56,8 @@ updating...
 
 * [98. Validate Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/26)
 
+* [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/32)
+
 * * *
 
 **DP**
