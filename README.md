@@ -50,6 +50,8 @@ updating...
 
 * [8. String to Integer (atoi)](https://github.com/Woodyiiiiiii/LeetCode/issues/31)
 
+* [43. Multiply Strings](https://github.com/Woodyiiiiiii/LeetCode/issues/37)
+
 * * *
 
 **Tree**
@@ -57,6 +59,8 @@ updating...
 * [98. Validate Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/26)
 
 * [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/32)
+
+* [617. Merge Two Binary Trees](https://github.com/Woodyiiiiiii/LeetCode/issues/36)
 
 * * *
 
