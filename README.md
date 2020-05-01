@@ -33,6 +33,8 @@ updating...
 
 * [11. Container With Most Water](https://github.com/Woodyiiiiiii/LeetCode/issues/27)
 
+* [78. Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/40)
+
 * * *
 
 **Linkedlist**
@@ -42,6 +44,13 @@ updating...
 **Stack & Queue**
 
 * [20. Valid Parentheses](https://github.com/Woodyiiiiiii/LeetCode/issues/30)
+
+* * *
+**Sliding Window & Two Points**
+
+* [209. Minimum Size Subarray Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/38)
+
+* [3. Longest Substring Without Repeating Characters](https://github.com/Woodyiiiiiii/LeetCode/issues/39)
 
 * * *
 **String**
