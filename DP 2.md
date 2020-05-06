@@ -26,6 +26,10 @@ According to [https://www.zhihu.com/collection/179776300](https://www.zhihu.com/
 
 * [53. Maximum Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/23)
 
+* [198. House Robber](https://github.com/Woodyiiiiiii/LeetCode/issues/42)
+
+* [873. Length of Longest Fibonacci Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/43)
+
 
 #### 2. 区间DP
 
