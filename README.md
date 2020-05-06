@@ -109,4 +109,8 @@ updating...
 
 * [543. Diameter of Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/29)
 
+* [198. House Robber](https://github.com/Woodyiiiiiii/LeetCode/issues/42)
+
+* [873. Length of Longest Fibonacci Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/43)
+
 * * *
