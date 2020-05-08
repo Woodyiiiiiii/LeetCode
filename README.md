@@ -117,10 +117,18 @@ updating...
 
 * [543. Diameter of Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/29)
 
+* [233. Number of Digit One](https://github.com/Woodyiiiiiii/LeetCode/issues/33)
+
+* [121. Best Time to Buy and Sell Stock](https://github.com/Woodyiiiiiii/LeetCode/issues/34)
+
+* [122. Best Time to Buy and Sell Stock II](https://github.com/Woodyiiiiiii/LeetCode/issues/35)
+
 * [198. House Robber](https://github.com/Woodyiiiiiii/LeetCode/issues/42)
 
 * [873. Length of Longest Fibonacci Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/43)
 
 * [674. Longest Continuous Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/45)
+
+
 
 * * *
