@@ -39,6 +39,8 @@ updating...
 
 **Linkedlist**
 
+* [148. Sort List](https://github.com/Woodyiiiiiii/LeetCode/issues/44)
+
 * * *
 
 **Stack & Queue**
@@ -112,5 +114,7 @@ updating...
 * [198. House Robber](https://github.com/Woodyiiiiiii/LeetCode/issues/42)
 
 * [873. Length of Longest Fibonacci Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/43)
+
+* [674. Longest Continuous Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/45)
 
 * * *
