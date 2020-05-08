@@ -65,8 +65,6 @@ updating...
 * * *
 **String**
 
-* [5. Longest Palindromic Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/28)
-
 * [8. String to Integer (atoi)](https://github.com/Woodyiiiiiii/LeetCode/issues/31)
 
 * [43. Multiply Strings](https://github.com/Woodyiiiiiii/LeetCode/issues/37)
