@@ -27,8 +27,6 @@ updating...
 
 * [59. Spiral Matrix II](https://github.com/Woodyiiiiiii/LeetCode/issues/16)
 
-* [215. Kth Largest Element in an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/17)
-
 * [33. Search in Rotated Sorted Array](https://github.com/Woodyiiiiiii/LeetCode/issues/19)
 
 * [11. Container With Most Water](https://github.com/Woodyiiiiiii/LeetCode/issues/27)
@@ -36,6 +34,13 @@ updating...
 * [78. Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/40)
 
 * * *
+
+**Top K**
+
+* [215. Kth Largest Element in an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/17)
+
+* [347. Top K Frequent Elements](https://github.com/Woodyiiiiiii/LeetCode/issues/46)
+
 
 **Linkedlist**
 
