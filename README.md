@@ -1,7 +1,7 @@
 # LeetCode
-My private record of Leetcode solution using Java language.
+个人刷LeetCode的做题笔记和心得，收录了个人认为典型或有趣的题目。
 
-updating...
+更新中...
 
 * * *
 
