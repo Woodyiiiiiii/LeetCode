@@ -87,6 +87,8 @@
 
 * * *
 
+**Backtracking**
+
 * [46. Permutations](https://github.com/Woodyiiiiiii/LeetCode/issues/50)
 
 * * *
