@@ -87,6 +87,10 @@
 
 * * *
 
+* [46. Permutations](https://github.com/Woodyiiiiiii/LeetCode/issues/50)
+
+* * *
+
 **DP**
 
 * [746. Min Cost Climbing Stairs](https://github.com/Woodyiiiiiii/LeetCode/issues/8)
