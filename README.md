@@ -31,8 +31,6 @@
 
 * [11. Container With Most Water](https://github.com/Woodyiiiiiii/LeetCode/issues/27)
 
-* [78. Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/40)
-
 * * *
 
 **Top K**
@@ -90,6 +88,10 @@
 **Backtracking**
 
 * [46. Permutations](https://github.com/Woodyiiiiiii/LeetCode/issues/50)
+
+* [77. Combinations](https://github.com/Woodyiiiiiii/LeetCode/issues/51)
+
+* [78. Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/40)
 
 * * *
 
