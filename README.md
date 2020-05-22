@@ -141,6 +141,7 @@
 
 * [674. Longest Continuous Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/45)
 
+* [494. Target Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/52)
 
 
 * * *
