@@ -31,6 +31,8 @@
 
 * [11. Container With Most Water](https://github.com/Woodyiiiiiii/LeetCode/issues/27)
 
+* [560. Subarray Sum Equals K](https://github.com/Woodyiiiiiii/LeetCode/issues/54)(累加和)
+
 * * *
 
 **Top K**
@@ -143,5 +145,6 @@
 
 * [494. Target Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/52)
 
+* [647. Palindromic Substrings](https://github.com/Woodyiiiiiii/LeetCode/issues/53)
 
 * * *
