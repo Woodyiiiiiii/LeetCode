@@ -45,6 +45,8 @@
 
 **Linkedlist**
 
+* [206. Reverse Linked List](https://github.com/Woodyiiiiiii/LeetCode/issues/55)
+
 * [148. Sort List](https://github.com/Woodyiiiiiii/LeetCode/issues/44)
 
 * [109. Convert Sorted List to Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/49)
@@ -94,6 +96,14 @@
 * [77. Combinations](https://github.com/Woodyiiiiiii/LeetCode/issues/51)
 
 * [78. Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/40)
+
+* * *
+
+**Greedy**
+
+* [55. Jump Game](https://github.com/Woodyiiiiiii/LeetCode/issues/56)
+
+* [45. Jump Game II](https://github.com/Woodyiiiiiii/LeetCode/issues/57)
 
 * * *
 
