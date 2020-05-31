@@ -161,4 +161,6 @@
 
 * [647. Palindromic Substrings](https://github.com/Woodyiiiiiii/LeetCode/issues/53)
 
+* [152. Maximum Product Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/60)
+
 * * *
