@@ -164,3 +164,9 @@
 * [152. Maximum Product Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/60)
 
 * * *
+
+**Others**
+
+* [146. LRU Cache](https://github.com/Woodyiiiiiii/LeetCode/issues/61)
+
+* * *
