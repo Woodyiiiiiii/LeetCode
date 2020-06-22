@@ -91,6 +91,8 @@
 
 * [94. Binary Tree Inorder Traversal](https://github.com/Woodyiiiiiii/LeetCode/issues/65)
 
+* [96. Unique Binary Search Trees](https://github.com/Woodyiiiiiii/LeetCode/issues/66)
+
 * * *
 
 **Backtracking**
