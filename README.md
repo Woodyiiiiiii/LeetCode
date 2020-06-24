@@ -173,6 +173,8 @@
 
 * [10. Regular Expression Matching](https://github.com/Woodyiiiiiii/LeetCode/issues/64)
 
+* [32. Longest Valid Parentheses](https://github.com/Woodyiiiiiii/LeetCode/issues/67)
+
 * * *
 
 **Others**
