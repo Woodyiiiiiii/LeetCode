@@ -175,6 +175,8 @@
 
 * [32. Longest Valid Parentheses](https://github.com/Woodyiiiiiii/LeetCode/issues/67)
 
+* [687. Longest Univalue Path](https://github.com/Woodyiiiiiii/LeetCode/issues/68)
+
 * * *
 
 **Others**
