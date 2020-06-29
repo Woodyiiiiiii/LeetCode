@@ -177,6 +177,8 @@
 
 * [687. Longest Univalue Path](https://github.com/Woodyiiiiiii/LeetCode/issues/68)
 
+* [139. Word Break](https://github.com/Woodyiiiiiii/LeetCode/issues/69)
+
 * * *
 
 **Others**
