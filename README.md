@@ -82,7 +82,6 @@
 
 * [200. Number of Islands](https://github.com/Woodyiiiiiii/LeetCode/issues/70)
 
-* [140. Word Break II ](https://github.com/Woodyiiiiiii/LeetCode/issues/71)
 
 * * *
 
@@ -113,6 +112,8 @@
 * [39. Combination Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/58)
 
 * [40. Combination Sum II](https://github.com/Woodyiiiiiii/LeetCode/issues/59)
+
+* [140. Word Break II ](https://github.com/Woodyiiiiiii/LeetCode/issues/71)
 
 * * *
 
