@@ -115,6 +115,8 @@
 
 * [140. Word Break II ](https://github.com/Woodyiiiiiii/LeetCode/issues/71)
 
+* [79. Word Search](https://github.com/Woodyiiiiiii/LeetCode/issues/72)
+
 * * *
 
 **Greedy**
