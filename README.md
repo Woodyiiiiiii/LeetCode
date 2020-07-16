@@ -78,6 +78,12 @@
 * [43. Multiply Strings](https://github.com/Woodyiiiiiii/LeetCode/issues/37)
 
 * * *
+**BFS/DFS**
+
+* [200. Number of Islands](https://github.com/Woodyiiiiiii/LeetCode/issues/70)
+
+
+* * *
 
 **Tree**
 
@@ -106,6 +112,14 @@
 * [39. Combination Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/58)
 
 * [40. Combination Sum II](https://github.com/Woodyiiiiiii/LeetCode/issues/59)
+
+* [140. Word Break II ](https://github.com/Woodyiiiiiii/LeetCode/issues/71)
+
+* [79. Word Search](https://github.com/Woodyiiiiiii/LeetCode/issues/72)
+
+* [208. Implement Trie (Prefix Tree)](https://github.com/Woodyiiiiiii/LeetCode/issues/73)(Trie)
+
+* [212. Word Search II](https://github.com/Woodyiiiiiii/LeetCode/issues/74)(Trie)
 
 * * *
 
@@ -176,6 +190,8 @@
 * [32. Longest Valid Parentheses](https://github.com/Woodyiiiiiii/LeetCode/issues/67)
 
 * [687. Longest Univalue Path](https://github.com/Woodyiiiiiii/LeetCode/issues/68)
+
+* [139. Word Break](https://github.com/Woodyiiiiiii/LeetCode/issues/69)
 
 * * *
 
