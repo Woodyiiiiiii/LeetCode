@@ -19,6 +19,8 @@
 
 * [231. Power of Two](https://github.com/Woodyiiiiiii/LeetCode/issues/7)
 
+* [191. Number of 1 Bits](https://github.com/Woodyiiiiiii/LeetCode/issues/78)
+
 * * *
 
 **Array**
@@ -34,6 +36,8 @@
 * [560. Subarray Sum Equals K](https://github.com/Woodyiiiiiii/LeetCode/issues/54)(累加和)
 
 * [1018. Binary Prefix Divisible By 5](https://github.com/Woodyiiiiiii/LeetCode/issues/62)
+
+* [56. Merge Intervals](https://github.com/Woodyiiiiiii/LeetCode/issues/77)
 
 * * *
 
@@ -98,6 +102,8 @@
 * [94. Binary Tree Inorder Traversal](https://github.com/Woodyiiiiiii/LeetCode/issues/65)
 
 * [96. Unique Binary Search Trees](https://github.com/Woodyiiiiiii/LeetCode/issues/66)
+
+* [222. Count Complete Tree Nodes](https://github.com/Woodyiiiiiii/LeetCode/issues/76)
 
 * * *
 
@@ -192,6 +198,8 @@
 * [687. Longest Univalue Path](https://github.com/Woodyiiiiiii/LeetCode/issues/68)
 
 * [139. Word Break](https://github.com/Woodyiiiiiii/LeetCode/issues/69)
+
+* [174. Dungeon Game](https://github.com/Woodyiiiiiii/LeetCode/issues/75)
 
 * * *
 
