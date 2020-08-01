@@ -39,6 +39,8 @@
 
 * [56. Merge Intervals](https://github.com/Woodyiiiiiii/LeetCode/issues/77)
 
+* [42. Trapping Rain Water](https://github.com/Woodyiiiiiii/LeetCode/issues/79)
+
 * * *
 
 **Top K**
