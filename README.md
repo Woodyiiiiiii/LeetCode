@@ -41,6 +41,8 @@
 
 * [42. Trapping Rain Water](https://github.com/Woodyiiiiiii/LeetCode/issues/79)
 
+* [41. First Missing Positive](https://github.com/Woodyiiiiiii/LeetCode/issues/81)
+
 * * *
 
 **Top K**
