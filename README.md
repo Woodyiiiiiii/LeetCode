@@ -43,6 +43,8 @@
 
 * [41. First Missing Positive](https://github.com/Woodyiiiiiii/LeetCode/issues/81)
 
+* [442. Find All Duplicates in an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/82)
+
 * * *
 
 **Top K**
