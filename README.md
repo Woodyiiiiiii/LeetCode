@@ -81,6 +81,8 @@
 
 * [239. Sliding Window Maximum](https://github.com/Woodyiiiiiii/LeetCode/issues/48)
 
+* [424. Longest Repeating Character Replacement](https://github.com/Woodyiiiiiii/LeetCode/issues/84)
+
 * * *
 
 **String**
