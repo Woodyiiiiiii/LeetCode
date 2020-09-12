@@ -221,4 +221,8 @@
 
 * [146. LRU Cache](https://github.com/Woodyiiiiiii/LeetCode/issues/61)
 
+* [69. Sqrt(x)](https://github.com/Woodyiiiiiii/LeetCode/issues/85)
+
+* [50. Pow(x, n)](https://github.com/Woodyiiiiiii/LeetCode/issues/86)
+
 * * *
