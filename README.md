@@ -235,4 +235,6 @@
 
 * [50. Pow(x, n)](https://github.com/Woodyiiiiiii/LeetCode/issues/86)
 
+* [204. Count Primes](https://github.com/Woodyiiiiiii/LeetCode/issues/92)
+
 * * *
