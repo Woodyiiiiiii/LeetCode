@@ -85,8 +85,6 @@
 
 * [81. Search in Rotated Sorted Array II](https://github.com/Woodyiiiiiii/LeetCode/issues/87)(Binary Search)
 
-* [1337. The K Weakest Rows in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/93)
-
 * * *
 
 **String**
@@ -157,6 +155,8 @@
 
 * [45. Jump Game II](https://github.com/Woodyiiiiiii/LeetCode/issues/57)
 
+* [1337. The K Weakest Rows in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/93)
+
 * * *
 
 **DP**
@@ -226,6 +226,10 @@
 * [416. Partition Equal Subset Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/88)
 
 * [91. Decode Ways](https://github.com/Woodyiiiiiii/LeetCode/issues/91)
+
+* [1029. Two City Scheduling](https://github.com/Woodyiiiiiii/LeetCode/issues/95)
+
+* [740. Delete and Earn](https://github.com/Woodyiiiiiii/LeetCode/issues/96)
 
 * * *
 
