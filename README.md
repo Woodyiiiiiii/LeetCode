@@ -47,11 +47,19 @@
 
 * * *
 
+**Binary Search**
+
+* [2226. Maximum Candies Allocated to K Children](https://github.com/Woodyiiiiiii/LeetCode/issues/99)
+
+* * * 
+
 **Top K**
 
 * [215. Kth Largest Element in an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/17)
 
 * [347. Top K Frequent Elements](https://github.com/Woodyiiiiiii/LeetCode/issues/46)
+
+* [703. Kth Largest Element in a Stream](https://github.com/Woodyiiiiiii/LeetCode/issues/97)
 
 * * *
 
@@ -230,6 +238,16 @@
 * [1029. Two City Scheduling](https://github.com/Woodyiiiiiii/LeetCode/issues/95)
 
 * [740. Delete and Earn](https://github.com/Woodyiiiiiii/LeetCode/issues/96)
+
+* [1884. Egg Drop With 2 Eggs and N Floors](https://github.com/Woodyiiiiiii/LeetCode/issues/98)
+
+* [72. Edit Distance](https://github.com/Woodyiiiiiii/LeetCode/issues/100)
+
+* [583. Delete Operation for Two Strings](https://github.com/Woodyiiiiiii/LeetCode/issues/101)
+
+* [1937. Maximum Number of Points with Cost](https://github.com/Woodyiiiiiii/LeetCode/issues/102)
+
+* [1035. Uncrossed Lines](https://github.com/Woodyiiiiiii/LeetCode/issues/103)
 
 * * *
 
