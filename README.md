@@ -51,6 +51,8 @@
 
 * [2226. Maximum Candies Allocated to K Children](https://github.com/Woodyiiiiiii/LeetCode/issues/99)
 
+* [2250. Count Number of Rectangles Containing Each Point](https://github.com/Woodyiiiiiii/LeetCode/issues/104)
+
 * * * 
 
 **Top K**
