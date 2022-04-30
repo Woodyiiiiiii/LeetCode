@@ -171,6 +171,8 @@
 
 **Graph**
 
+* [1584. Min Cost to Connect All Points](https://github.com/Woodyiiiiiii/LeetCode/issues/106)
+
 * [785. Is Graph Bipartite?](https://github.com/Woodyiiiiiii/LeetCode/issues/105)
 
 * * *
