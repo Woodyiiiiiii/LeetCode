@@ -175,6 +175,8 @@
 
 * [785. Is Graph Bipartite?](https://github.com/Woodyiiiiiii/LeetCode/issues/105)
 
+* [1202. Smallest String With Swaps](https://github.com/Woodyiiiiiii/LeetCode/issues/107)
+
 * * *
 
 **DP**
