@@ -261,6 +261,8 @@
 
 * [1035. Uncrossed Lines](https://github.com/Woodyiiiiiii/LeetCode/issues/103)
 
+* [2262. Total Appeal of A String](https://github.com/Woodyiiiiiii/LeetCode/issues/108)
+
 * * *
 
 **Others**
