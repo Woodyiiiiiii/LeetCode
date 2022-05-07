@@ -81,6 +81,8 @@
 
 * [1209. Remove All Adjacent Duplicates in String II](https://github.com/Woodyiiiiiii/LeetCode/issues/109)
 
+* [456. 132 Pattern](https://github.com/Woodyiiiiiii/LeetCode/issues/110)
+
 * * *
 
 **Sliding Window & Two Points**
