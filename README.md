@@ -267,6 +267,8 @@
 
 * [2262. Total Appeal of A String](https://github.com/Woodyiiiiiii/LeetCode/issues/108)
 
+* [115. Distinct Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/111)
+
 * * *
 
 **Others**
