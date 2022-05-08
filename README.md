@@ -269,6 +269,8 @@
 
 * [115. Distinct Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/111)
 
+* [2266. Count Number of Texts](https://github.com/Woodyiiiiiii/LeetCode/issues/112)
+
 * * *
 
 **Others**
