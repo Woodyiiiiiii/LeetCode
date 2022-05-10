@@ -265,11 +265,11 @@
 
 * [1035. Uncrossed Lines](https://github.com/Woodyiiiiiii/LeetCode/issues/103)
 
-* [2262. Total Appeal of A String](https://github.com/Woodyiiiiiii/LeetCode/issues/108)
+* [2262. Total Appeal of A String](https://github.com/Woodyiiiiiii/LeetCode/issues/108) *
 
 * [115. Distinct Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/111)
 
-* [2266. Count Number of Texts](https://github.com/Woodyiiiiiii/LeetCode/issues/112)
+* [2266. Count Number of Texts](https://github.com/Woodyiiiiiii/LeetCode/issues/112) *
 
 * * *
 
