@@ -83,6 +83,8 @@
 
 * [456. 132 Pattern](https://github.com/Woodyiiiiiii/LeetCode/issues/110)
 
+* [739. Daily Temperatures](https://github.com/Woodyiiiiiii/LeetCode/issues/114)
+
 * * *
 
 **Sliding Window & Two Points**
