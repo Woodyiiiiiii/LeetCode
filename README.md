@@ -271,6 +271,8 @@
 
 * [2266. Count Number of Texts](https://github.com/Woodyiiiiiii/LeetCode/issues/112) *
 
+* [1641. Count Sorted Vowel Strings](https://github.com/Woodyiiiiiii/LeetCode/issues/113) * *
+
 * * *
 
 **Others**
