@@ -277,7 +277,7 @@
 
 * [1641. Count Sorted Vowel Strings](https://github.com/Woodyiiiiiii/LeetCode/issues/113) * *
 
-* [416. Partition Equal Subset Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/116)
+* [474. Ones and Zeroes](https://github.com/Woodyiiiiiii/LeetCode/issues/116)
 
 * * *
 
