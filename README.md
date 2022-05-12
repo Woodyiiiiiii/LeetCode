@@ -147,7 +147,7 @@
 
 **Backtracking**
 
-* [46. Permutations](https://github.com/Woodyiiiiiii/LeetCode/issues/50)
+* [46. Permutations](https://github.com/Woodyiiiiiii/LeetCode/issues/50) **
 
 * [77. Combinations](https://github.com/Woodyiiiiiii/LeetCode/issues/51)
 
