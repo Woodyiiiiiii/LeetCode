@@ -179,7 +179,7 @@
 
 **Graph**
 
-* [1584. Min Cost to Connect All Points](https://github.com/Woodyiiiiiii/LeetCode/issues/106)
+* [1584. Min Cost to Connect All Points](https://github.com/Woodyiiiiiii/LeetCode/issues/106) **(图的两种经典算法：Prim、Kruskal+UnionFind)**
 
 * [785. Is Graph Bipartite?](https://github.com/Woodyiiiiiii/LeetCode/issues/105)
 
