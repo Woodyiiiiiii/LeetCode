@@ -105,6 +105,8 @@
 
 * [81. Search in Rotated Sorted Array II](https://github.com/Woodyiiiiiii/LeetCode/issues/87)(Binary Search)
 
+* [2271. Maximum White Tiles Covered by a Carpet](https://github.com/Woodyiiiiiii/LeetCode/issues/119)
+
 * * *
 
 **String**
