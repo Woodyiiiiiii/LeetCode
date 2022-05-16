@@ -123,7 +123,7 @@
 
 * [200. Number of Islands](https://github.com/Woodyiiiiiii/LeetCode/issues/70)
 
-* [695. Max Area of Island](https://github.com/Woodyiiiiiii/LeetCode/issues/121)
+* [695. Max Area of Island](https://github.com/Woodyiiiiiii/LeetCode/issues/121) *
 
 * [114. Flatten Binary Tree to Linked List ](https://github.com/Woodyiiiiiii/LeetCode/issues/80)
 
