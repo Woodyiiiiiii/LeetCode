@@ -289,6 +289,8 @@
 
 * [474. Ones and Zeroes](https://github.com/Woodyiiiiiii/LeetCode/issues/116)
 
+* [2140. Solving Questions With Brainpower](https://github.com/Woodyiiiiiii/LeetCode/issues/122)
+
 * * *
 
 **Others**
