@@ -197,6 +197,8 @@
 
 * [1192. Critical Connections in a Network](https://github.com/Woodyiiiiiii/LeetCode/issues/123)(Tarjan algorithm)
 
+* [329. Longest Increasing Path in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/124)
+
 * * *
 
 **DP**
