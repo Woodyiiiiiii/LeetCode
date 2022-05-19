@@ -133,6 +133,8 @@
 
 * [1091. Shortest Path in Binary Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/120)
 
+* [329. Longest Increasing Path in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/124)
+
 * * *
 
 **Tree**
@@ -196,8 +198,6 @@
 * [547. Number of Provinces](https://github.com/Woodyiiiiiii/LeetCode/issues/117)
 
 * [1192. Critical Connections in a Network](https://github.com/Woodyiiiiiii/LeetCode/issues/123)(Tarjan algorithm)
-
-* [329. Longest Increasing Path in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/124)
 
 * * *
 
