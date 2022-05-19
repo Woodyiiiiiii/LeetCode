@@ -195,6 +195,8 @@
 
 * [547. Number of Provinces](https://github.com/Woodyiiiiiii/LeetCode/issues/117)
 
+* [1192. Critical Connections in a Network](https://github.com/Woodyiiiiiii/LeetCode/issues/123)
+
 * * *
 
 **DP**
