@@ -99,7 +99,7 @@
 
 * [76. Minimum Window Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/41)
 
-* [239. Sliding Window Maximum](https://github.com/Woodyiiiiiii/LeetCode/issues/48) (** **堆/单调队列/分组预处理**)
+* [239. Sliding Window Maximum](https://github.com/Woodyiiiiiii/LeetCode/issues/48) (**堆/单调队列/分组预处理**)
 
 * [424. Longest Repeating Character Replacement](https://github.com/Woodyiiiiiii/LeetCode/issues/84)
 
