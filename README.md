@@ -307,4 +307,6 @@
 
 * [204. Count Primes](https://github.com/Woodyiiiiiii/LeetCode/issues/92)
 
+* [2280. Minimum Lines to Represent a Line Chart](https://github.com/Woodyiiiiiii/LeetCode/issues/125)(double精度问题/最大公约数)
+
 * * *
