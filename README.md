@@ -291,7 +291,7 @@
 
 * [1641. Count Sorted Vowel Strings](https://github.com/Woodyiiiiiii/LeetCode/issues/113) * *
 
-* [474. Ones and Zeroes](https://github.com/Woodyiiiiiii/LeetCode/issues/116)
+* [474. Ones and Zeroes](https://github.com/Woodyiiiiiii/LeetCode/issues/116)(DP解决subset问题)
 
 * [2140. Solving Questions With Brainpower](https://github.com/Woodyiiiiiii/LeetCode/issues/122)
 
