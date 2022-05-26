@@ -217,7 +217,7 @@
 
 * [1155. Number of Dice Rolls With Target Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/14)
 
-* [300. Longest Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/20)
+* [300. Longest Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/20)(LIS问题)
 
 * [1143. Longest Common Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/21)
 
