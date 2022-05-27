@@ -219,7 +219,7 @@
 
 * [300. Longest Increasing Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/20)(LIS问题)
 
-* [354. Russian Doll Envelopes](https://github.com/Woodyiiiiiii/LeetCode/issues/126)
+* [354. Russian Doll Envelopes](https://github.com/Woodyiiiiiii/LeetCode/issues/126)(LIS问题)
 
 * [1143. Longest Common Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/21)
 
