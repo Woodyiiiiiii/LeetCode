@@ -47,6 +47,8 @@
 
 * [442. Find All Duplicates in an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/82)
 
+* [525. Contiguous Array](https://github.com/Woodyiiiiiii/LeetCode/issues/127) * (preSum + hash)
+
 * * *
 
 **Binary Search**
