@@ -299,7 +299,7 @@
 
 * [2140. Solving Questions With Brainpower](https://github.com/Woodyiiiiiii/LeetCode/issues/122)
 
-* [2305. Fair Distribution of Cookies](https://github.com/Woodyiiiiiii/LeetCode/issues/128)(* 状态压缩DP/用位表示)
+* [2305. Fair Distribution of Cookies](https://github.com/Woodyiiiiiii/LeetCode/issues/128)(状态压缩DP/用位表示)
 
 * * *
 
