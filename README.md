@@ -137,6 +137,8 @@
 
 * [329. Longest Increasing Path in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/124)
 
+* [2328. Number of Increasing Paths in a Grid](https://github.com/Woodyiiiiiii/LeetCode/issues/130)
+
 * * *
 
 **Tree**
@@ -302,6 +304,8 @@
 * [2305. Fair Distribution of Cookies](https://github.com/Woodyiiiiiii/LeetCode/issues/128)(状态压缩DP/用位表示)
 
 * [2311. Longest Binary Subsequence Less Than or Equal to K](https://github.com/Woodyiiiiiii/LeetCode/issues/129)
+
+* [2327. Number of People Aware of a Secret](https://github.com/Woodyiiiiiii/LeetCode/issues/131)
 
 * * *
 
