@@ -323,6 +323,6 @@
 
 * [2353. Design a Food Rating System ](https://github.com/Woodyiiiiiii/LeetCode/issues/132)
 
-* [2364. Count Number of Bad Pairs](https://github.com/Woodyiiiiiii/LeetCode/issues/133)
+* [2364. Count Number of Bad Pairs](https://github.com/Woodyiiiiiii/LeetCode/issues/133) (Hash)
 
 * * *
