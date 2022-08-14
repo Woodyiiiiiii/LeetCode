@@ -91,6 +91,8 @@
 
 * [901. Online Stock Span](https://github.com/Woodyiiiiiii/LeetCode/issues/115)
 
+* [2375. Construct Smallest Number From DI String](https://github.com/Woodyiiiiiii/LeetCode/issues/135)
+
 * * *
 
 **Sliding Window & Two Points**
@@ -202,6 +204,8 @@
 * [547. Number of Provinces](https://github.com/Woodyiiiiiii/LeetCode/issues/117)
 
 * [1192. Critical Connections in a Network](https://github.com/Woodyiiiiiii/LeetCode/issues/123)(Tarjan algorithm)
+
+* [2374. Node With Highest Edge Score](https://github.com/Woodyiiiiiii/LeetCode/issues/134)
 
 * * *
 
