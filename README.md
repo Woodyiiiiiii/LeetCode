@@ -329,4 +329,6 @@
 
 * [2364. Count Number of Bad Pairs](https://github.com/Woodyiiiiiii/LeetCode/issues/133) (Hash)
 
+* [2392. Build a Matrix With Conditions](https://github.com/Woodyiiiiiii/LeetCode/issues/136) **(拓扑排序)**
+
 * * *
