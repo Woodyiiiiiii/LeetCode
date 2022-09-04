@@ -111,6 +111,8 @@
 
 * [2271. Maximum White Tiles Covered by a Carpet](https://github.com/Woodyiiiiiii/LeetCode/issues/119)
 
+* [2401. Longest Nice Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/138)
+
 * * *
 
 **String**
@@ -310,6 +312,8 @@
 * [2311. Longest Binary Subsequence Less Than or Equal to K](https://github.com/Woodyiiiiiii/LeetCode/issues/129)
 
 * [2327. Number of People Aware of a Secret](https://github.com/Woodyiiiiiii/LeetCode/issues/131)
+
+* [2400. Number of Ways to Reach a Position After Exactly k Steps](https://github.com/Woodyiiiiiii/LeetCode/issues/137)
 
 * * *
 
