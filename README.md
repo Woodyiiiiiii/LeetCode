@@ -193,6 +193,8 @@
 
 * [1337. The K Weakest Rows in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/93)
 
+* [2406. Divide Intervals Into Minimum Number of Groups](https://github.com/Woodyiiiiiii/LeetCode/issues/139) **(intervals/sort/greedy)**
+
 * * *
 
 **Graph**
