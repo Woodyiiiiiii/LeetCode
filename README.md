@@ -23,7 +23,7 @@
 
 * [2275. Largest Combination With Bitwise AND Greater Than Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/118)
 
-* [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/Woodyiiiiiii/LeetCode/issues/140)
+* [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/Woodyiiiiiii/LeetCode/issues/140) (non-increasing means a[i] >= a[i + 1], non-decreasing is the same logic)
 
 * * *
 
