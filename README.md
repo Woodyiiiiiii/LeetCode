@@ -23,6 +23,8 @@
 
 * [2275. Largest Combination With Bitwise AND Greater Than Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/118)
 
+* [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/Woodyiiiiiii/LeetCode/issues/140)
+
 * * *
 
 **Array**
