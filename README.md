@@ -25,6 +25,8 @@
 
 * [2419. Longest Subarray With Maximum Bitwise AND](https://github.com/Woodyiiiiiii/LeetCode/issues/140) (non-increasing means a[i] >= a[i + 1], non-decreasing is the same logic)
 
+* [2425. Bitwise XOR of All Pairings](https://github.com/Woodyiiiiiii/LeetCode/issues/141)
+
 * * *
 
 **Array**
