@@ -321,6 +321,8 @@
 
 * [2400. Number of Ways to Reach a Position After Exactly k Steps](https://github.com/Woodyiiiiiii/LeetCode/issues/137)
 
+* [2435. Paths in Matrix Whose Sum Is Divisible by K](https://github.com/Woodyiiiiiii/LeetCode/issues/142)
+
 * * *
 
 **Others**
