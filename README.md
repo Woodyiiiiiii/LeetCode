@@ -199,6 +199,8 @@
 
 * [2406. Divide Intervals Into Minimum Number of Groups](https://github.com/Woodyiiiiiii/LeetCode/issues/139) **(intervals/sort/greedy)**
 
+* [2434. Using a Robot to Print the Lexicographically Smallest String](https://github.com/Woodyiiiiiii/LeetCode/issues/143)
+
 * * *
 
 **Graph**
