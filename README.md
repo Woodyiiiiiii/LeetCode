@@ -201,6 +201,8 @@
 
 * [2434. Using a Robot to Print the Lexicographically Smallest String](https://github.com/Woodyiiiiiii/LeetCode/issues/143)
 
+* [334. Increasing Triplet Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/144)
+
 * * *
 
 **Graph**
