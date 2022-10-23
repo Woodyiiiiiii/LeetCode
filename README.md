@@ -349,4 +349,6 @@
 
 * [2392. Build a Matrix With Conditions](https://github.com/Woodyiiiiiii/LeetCode/issues/136) **(拓扑排序)**
 
+* [2447. Number of Subarrays With GCD Equal to K](https://github.com/Woodyiiiiiii/LeetCode/issues/145) (**最大公约数**)
+
 * * *
