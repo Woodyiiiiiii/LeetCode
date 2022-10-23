@@ -61,6 +61,8 @@
 
 * [2250. Count Number of Rectangles Containing Each Point](https://github.com/Woodyiiiiiii/LeetCode/issues/104)
 
+* [2448. Minimum Cost to Make Array Equal](https://github.com/Woodyiiiiiii/LeetCode/issues/146)
+
 * * * 
 
 **Top K**
