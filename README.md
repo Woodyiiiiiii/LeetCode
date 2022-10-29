@@ -53,6 +53,8 @@
 
 * [525. Contiguous Array](https://github.com/Woodyiiiiiii/LeetCode/issues/127) * (preSum + hash)
 
+* [523. Continuous Subarray Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/147)
+
 * * *
 
 **Binary Search**
