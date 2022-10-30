@@ -169,6 +169,8 @@
 
 * [222. Count Complete Tree Nodes](https://github.com/Woodyiiiiiii/LeetCode/issues/76)
 
+* [2458. Height of Binary Tree After Subtree Removal Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/148)
+
 * * *
 
 **Backtracking**
