@@ -131,7 +131,7 @@
 
 * [179. Largest Number](https://github.com/Woodyiiiiiii/LeetCode/issues/90)
 
-* [2472. Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/Woodyiiiiiii/LeetCode/issues/149)
+* [2472. Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/Woodyiiiiiii/LeetCode/issues/149) (贪心+DP)
 
 * * *
 
