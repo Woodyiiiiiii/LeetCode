@@ -357,6 +357,6 @@
 
 * [2447. Number of Subarrays With GCD Equal to K](https://github.com/Woodyiiiiiii/LeetCode/issues/145) (**最大公约数**)
 
-* [1760D Challenging Valleys](https://github.com/Woodyiiiiiii/LeetCode/issues/150)
+* [1760D Challenging Valleys](https://github.com/Woodyiiiiiii/LeetCode/issues/150) (状态机)
 
 * * *
