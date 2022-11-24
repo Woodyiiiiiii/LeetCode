@@ -153,6 +153,8 @@
 
 * [2328. Number of Increasing Paths in a Grid](https://github.com/Woodyiiiiiii/LeetCode/issues/130)
 
+* [2477. Minimum Fuel Cost to Report to the Capital](https://github.com/Woodyiiiiiii/LeetCode/issues/151)
+
 * * *
 
 **Tree**
