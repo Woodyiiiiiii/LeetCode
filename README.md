@@ -55,6 +55,8 @@
 
 * [523. Continuous Subarray Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/147)
 
+* [2488. Count Subarrays With Median K](https://github.com/Woodyiiiiiii/LeetCode/issues/153)
+
 * * *
 
 **Binary Search**
@@ -84,6 +86,8 @@
 * [148. Sort List](https://github.com/Woodyiiiiiii/LeetCode/issues/44)
 
 * [109. Convert Sorted List to Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/49)
+
+* [2487. Remove Nodes From Linked List](https://github.com/Woodyiiiiiii/LeetCode/issues/152)
 
 * * *
 
@@ -132,6 +136,8 @@
 * [179. Largest Number](https://github.com/Woodyiiiiiii/LeetCode/issues/90)
 
 * [2472. Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/Woodyiiiiiii/LeetCode/issues/149) (贪心+DP)
+
+* [2484. Count Palindromic Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/154) (DP)
 
 * * *
 
