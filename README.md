@@ -161,6 +161,8 @@
 
 * [2477. Minimum Fuel Cost to Report to the Capital](https://github.com/Woodyiiiiiii/LeetCode/issues/151)
 
+* [433. Minimum Genetic Mutation](https://github.com/Woodyiiiiiii/LeetCode/issues/156)
+
 * * *
 
 **Tree**
