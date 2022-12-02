@@ -235,6 +235,8 @@
 
 * [2374. Node With Highest Edge Score](https://github.com/Woodyiiiiiii/LeetCode/issues/134)
 
+* [2467. Most Profitable Path in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/155)
+
 * * *
 
 **DP**
