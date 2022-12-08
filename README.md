@@ -239,6 +239,8 @@
 
 * [2467. Most Profitable Path in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/155)
 
+* [2492. Minimum Score of a Path Between Two Cities](https://github.com/Woodyiiiiiii/LeetCode/issues/157)
+
 * * *
 
 **DP**
