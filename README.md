@@ -241,6 +241,8 @@
 
 * [2492. Minimum Score of a Path Between Two Cities](https://github.com/Woodyiiiiiii/LeetCode/issues/157)
 
+* [1697. Checking Existence of Edge Length Limited Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/158) **(Union Find)**
+
 * * *
 
 **DP**
