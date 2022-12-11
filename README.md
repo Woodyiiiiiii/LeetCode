@@ -3,6 +3,11 @@
 
 更新中... 2022
 
+**tips:**
+1. 观察示例，总结规律，试错
+2. 学会用工具类或方法来优化时间，如hash/priorityQueue
+3. 掌握基本方法，比如graph相关的dfs/bfs/union find
+
 * * *
 
 **Bit Manipulation**
