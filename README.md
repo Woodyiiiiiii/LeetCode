@@ -221,6 +221,8 @@
 
 * [334. Increasing Triplet Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/144)
 
+* [2498. Frog Jump II](https://github.com/Woodyiiiiiii/LeetCode/issues/159)
+
 * * *
 
 **Graph**
@@ -374,5 +376,7 @@
 * [2447. Number of Subarrays With GCD Equal to K](https://github.com/Woodyiiiiiii/LeetCode/issues/145) (**最大公约数**)
 
 * [1760D Challenging Valleys](https://github.com/Woodyiiiiiii/LeetCode/issues/150) (状态机)
+
+* [2499. Minimum Total Cost to Make Arrays Unequal](https://github.com/Woodyiiiiiii/LeetCode/issues/160) (数学)
 
 * * *
