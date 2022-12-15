@@ -33,7 +33,7 @@
 
 * [2425. Bitwise XOR of All Pairings](https://github.com/Woodyiiiiiii/LeetCode/issues/141)
 
-* [2397. Maximum Rows Covered by Columns](https://github.com/Woodyiiiiiii/LeetCode/issues/161)
+* [2397. Maximum Rows Covered by Columns](https://github.com/Woodyiiiiiii/LeetCode/issues/161) (位运算遍历所有可能)
 
 * * *
 
