@@ -171,6 +171,8 @@
 
 * [433. Minimum Genetic Mutation](https://github.com/Woodyiiiiiii/LeetCode/issues/156)
 
+* [2503. Maximum Number of Points From Grid Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/162) (BFS+presum)
+
 * * *
 
 **Tree**
