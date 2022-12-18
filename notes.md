@@ -1,5 +1,11 @@
 # notes after every contest
 
+**tips:**
+1. 观察示例，总结规律，试错
+2. 学会用工具类或方法来优化时间，如hash/priorityQueue
+3. 掌握基本方法，比如graph相关的dfs/bfs/union find
+4. 紧紧围绕题目条件展开，比如No.1028，抓住建树+**层级**这两个条件
+
 **Weekly Contest 324**
 1. 第二题重点是计算质因数的算法
 2. 第三题重点是分类讨论，按逻辑，然后试错，对错误用例反复尝试，用{}修改[]
