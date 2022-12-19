@@ -59,6 +59,8 @@
 
 * [2488. Count Subarrays With Median K](https://github.com/Woodyiiiiiii/LeetCode/issues/153)
 
+* [2453. Destroy Sequential Targets](https://github.com/Woodyiiiiiii/LeetCode/issues/163) (%号分组)
+
 * * *
 
 **Binary Search**
