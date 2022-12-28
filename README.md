@@ -71,6 +71,8 @@
 
 * [2448. Minimum Cost to Make Array Equal](https://github.com/Woodyiiiiiii/LeetCode/issues/146)
 
+* [2517. Maximum Tastiness of Candy Basket](https://github.com/Woodyiiiiiii/LeetCode/issues/164)
+
 * * * 
 
 **Top K**
