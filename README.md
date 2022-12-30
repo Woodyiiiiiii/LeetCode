@@ -131,6 +131,8 @@
 
 * [2401. Longest Nice Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/138)
 
+* [2516. Take K of Each Character From Left and Right](https://github.com/Woodyiiiiiii/LeetCode/issues/165)
+
 * * *
 
 **String**
