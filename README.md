@@ -61,6 +61,8 @@
 
 * [2453. Destroy Sequential Targets](https://github.com/Woodyiiiiiii/LeetCode/issues/163) (%号分组)
 
+* [452. Minimum Number of Arrows to Burst Balloons](https://github.com/Woodyiiiiiii/LeetCode/issues/167) (interval类型题目)
+
 * * *
 
 **Binary Search**
