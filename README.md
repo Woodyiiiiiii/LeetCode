@@ -363,7 +363,7 @@
 
 * [2435. Paths in Matrix Whose Sum Is Divisible by K](https://github.com/Woodyiiiiiii/LeetCode/issues/142)
 
-* [2518. Number of Great Partitions](https://github.com/Woodyiiiiiii/LeetCode/issues/166)
+* [2518. Number of Great Partitions](https://github.com/Woodyiiiiiii/LeetCode/issues/166) (coin change)
 
 * * *
 
