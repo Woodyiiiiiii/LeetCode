@@ -29,6 +29,8 @@
 
 * [2397. Maximum Rows Covered by Columns](https://github.com/Woodyiiiiiii/LeetCode/issues/161) (位运算遍历所有可能)
 
+* [2527. Find Xor-Beauty of Array](https://github.com/Woodyiiiiiii/LeetCode/issues/168)
+
 * * *
 
 **Array**
