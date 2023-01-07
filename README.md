@@ -77,6 +77,8 @@
 
 * [2517. Maximum Tastiness of Candy Basket](https://github.com/Woodyiiiiiii/LeetCode/issues/164)
 
+* [2528. Maximize the Minimum Powered City](https://github.com/Woodyiiiiiii/LeetCode/issues/169) (二分+最值+分配)
+
 * * * 
 
 **Top K**
