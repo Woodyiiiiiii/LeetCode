@@ -397,4 +397,6 @@
 
 * [2499. Minimum Total Cost to Make Arrays Unequal](https://github.com/Woodyiiiiiii/LeetCode/issues/160) (数学)
 
+* [2532. Time to Cross a Bridge](https://github.com/Woodyiiiiiii/LeetCode/issues/170) (模拟题)
+
 * * *
