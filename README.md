@@ -369,7 +369,9 @@
 
 * [2435. Paths in Matrix Whose Sum Is Divisible by K](https://github.com/Woodyiiiiiii/LeetCode/issues/142)
 
-* [2518. Number of Great Partitions](https://github.com/Woodyiiiiiii/LeetCode/issues/166) (coin change)
+* [2518. Number of Great Partitions](https://github.com/Woodyiiiiiii/LeetCode/issues/166) (coin change/knapsack背包)
+
+* [968. Binary Tree Cameras](https://github.com/Woodyiiiiiii/LeetCode/issues/171) (树状DP)
 
 * * *
 
