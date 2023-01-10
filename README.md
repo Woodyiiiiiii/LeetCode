@@ -151,7 +151,7 @@
 
 * [2472. Maximum Number of Non-overlapping Palindrome Substrings](https://github.com/Woodyiiiiiii/LeetCode/issues/149) (贪心+DP)
 
-* [2484. Count Palindromic Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/154) (DP)
+* [2484. Count Palindromic Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/154) (奇数次Palindromic String DP)
 
 * * *
 
