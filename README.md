@@ -69,13 +69,13 @@
 
 **Binary Search**
 
+* [2517. Maximum Tastiness of Candy Basket](https://github.com/Woodyiiiiiii/LeetCode/issues/164) (二分题型方法总结)
+
 * [2226. Maximum Candies Allocated to K Children](https://github.com/Woodyiiiiiii/LeetCode/issues/99)
 
 * [2250. Count Number of Rectangles Containing Each Point](https://github.com/Woodyiiiiiii/LeetCode/issues/104)
 
 * [2448. Minimum Cost to Make Array Equal](https://github.com/Woodyiiiiiii/LeetCode/issues/146)
-
-* [2517. Maximum Tastiness of Candy Basket](https://github.com/Woodyiiiiiii/LeetCode/issues/164) (二分题型方法总结)
 
 * [2528. Maximize the Minimum Powered City](https://github.com/Woodyiiiiiii/LeetCode/issues/169) (二分+最值+分配)
 
