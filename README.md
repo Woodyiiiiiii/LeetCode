@@ -33,6 +33,8 @@
 
 * [2411. Smallest Subarrays With Maximum Bitwise OR](https://github.com/Woodyiiiiiii/LeetCode/issues/174) (或运算|与最值)
 
+* [2513. Minimize the Maximum of Two Arrays](https://github.com/Woodyiiiiiii/LeetCode/issues/175) (二分+集合计算)
+
 * * *
 
 **Array**
