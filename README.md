@@ -385,7 +385,7 @@
 
 * [69. Sqrt(x)](https://github.com/Woodyiiiiiii/LeetCode/issues/85)
 
-* [50. Pow(x, n)](https://github.com/Woodyiiiiiii/LeetCode/issues/86)
+* [50. Pow(x, n)](https://github.com/Woodyiiiiiii/LeetCode/issues/86) (2的倍数可以通过左移/右移位数来实现)
 
 * [204. Count Primes](https://github.com/Woodyiiiiiii/LeetCode/issues/92)
 
