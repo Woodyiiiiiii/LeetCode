@@ -251,7 +251,7 @@
 
 * [2178. Maximum Split of Positive Even Integers](https://github.com/Woodyiiiiiii/LeetCode/issues/172)
 
-* [2086. Minimum Number of Food Buckets to Feed the Hamsters #177](https://github.com/Woodyiiiiiii/LeetCode/issues/177)
+* [2086. Minimum Number of Food Buckets to Feed the Hamsters](https://github.com/Woodyiiiiiii/LeetCode/issues/177) (辐射)
 
 * * *
 
