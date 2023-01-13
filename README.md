@@ -373,7 +373,7 @@
 
 * [2305. Fair Distribution of Cookies](https://github.com/Woodyiiiiiii/LeetCode/issues/128)(状态压缩DP/用位表示)
 
-* [2311. Longest Binary Subsequence Less Than or Equal to K](https://github.com/Woodyiiiiiii/LeetCode/issues/129)
+* [2311. Longest Binary Subsequence Less Than or Equal to K](https://github.com/Woodyiiiiiii/LeetCode/issues/129) (LIS)
 
 * [2327. Number of People Aware of a Secret](https://github.com/Woodyiiiiiii/LeetCode/issues/131)
 
