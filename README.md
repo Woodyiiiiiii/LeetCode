@@ -121,6 +121,8 @@
 
 * [2375. Construct Smallest Number From DI String](https://github.com/Woodyiiiiiii/LeetCode/issues/135)
 
+* [2289. Steps to Make Array Non-decreasing](https://github.com/Woodyiiiiiii/LeetCode/issues/176) (单调栈/dp)
+
 * * *
 
 **Sliding Window & Two Points**
