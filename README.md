@@ -205,6 +205,8 @@
 
 * [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/173) (多叉树的深度遍历)
 
+* [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18) (树的path问题/dfs)
+
 * * *
 
 **Backtracking**
@@ -302,8 +304,6 @@
 * [5. Longest Palindromic Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/28)
 
 * [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/25)
-
-* [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18)
 
 * [543. Diameter of Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/29)
 
