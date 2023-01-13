@@ -209,6 +209,8 @@
 
 * [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18) (树的path问题/dfs)
 
+* [2385. Amount of Time for Binary Tree to Be Infected ](https://github.com/Woodyiiiiiii/LeetCode/issues/178) (同样是path问题/dfs)
+
 * * *
 
 **Backtracking**
