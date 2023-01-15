@@ -257,8 +257,6 @@
 
 * [2385. Amount of Time for Binary Tree to Be Infected ](https://github.com/Woodyiiiiiii/LeetCode/issues/178) (同样是path问题/dfs)
 
-* [2421. Number of Good Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/179) (多叉树path问题/并查集+数学+排序连接)
-
 * [2538. Difference Between Maximum and Minimum Price Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/181) (rerooting/DFS缓存)
 
 * * *
@@ -281,7 +279,9 @@
 
 * [2492. Minimum Score of a Path Between Two Cities](https://github.com/Woodyiiiiiii/LeetCode/issues/157)
 
-* [1697. Checking Existence of Edge Length Limited Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/158) **(Union Find)**
+* [1697. Checking Existence of Edge Length Limited Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/158) **(树或图的path问题/Union Find)**
+
+* [2421. Number of Good Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/179) (树或图path问题/并查集+数学+排序连接)
 
 * * *
 
