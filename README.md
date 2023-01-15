@@ -141,7 +141,7 @@
 
 * [2271. Maximum White Tiles Covered by a Carpet](https://github.com/Woodyiiiiiii/LeetCode/issues/119)
 
-* [2401. Longest Nice Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/138)
+* [2401. Longest Nice Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/138) (滑动窗口/位运算)
 
 * [2516. Take K of Each Character From Left and Right](https://github.com/Woodyiiiiiii/LeetCode/issues/165)
 
