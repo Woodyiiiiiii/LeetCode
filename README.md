@@ -257,7 +257,7 @@
 
 * [2385. Amount of Time for Binary Tree to Be Infected ](https://github.com/Woodyiiiiiii/LeetCode/issues/178) (同样是path问题/dfs)
 
-* [2421. Number of Good Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/179) (并查集+数学+排序连接)
+* [2421. Number of Good Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/179) (多叉树path问题/并查集+数学+排序连接)
 
 * [2538. Difference Between Maximum and Minimum Price Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/181) (rerooting/DFS缓存)
 
