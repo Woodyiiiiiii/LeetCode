@@ -187,32 +187,6 @@
 
 * * *
 
-**Tree**
-
-* [98. Validate Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/26)
-
-* [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/32)
-
-* [617. Merge Two Binary Trees](https://github.com/Woodyiiiiiii/LeetCode/issues/36)
-
-* [103. Binary Tree Zigzag Level Order Traversal](https://github.com/Woodyiiiiiii/LeetCode/issues/47)
-
-* [94. Binary Tree Inorder Traversal](https://github.com/Woodyiiiiiii/LeetCode/issues/65)
-
-* [96. Unique Binary Search Trees](https://github.com/Woodyiiiiiii/LeetCode/issues/66)
-
-* [222. Count Complete Tree Nodes](https://github.com/Woodyiiiiiii/LeetCode/issues/76)
-
-* [2458. Height of Binary Tree After Subtree Removal Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/148)
-
-* [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/173) (多叉树的深度遍历)
-
-* [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18) (树的path问题/dfs)
-
-* [2385. Amount of Time for Binary Tree to Be Infected ](https://github.com/Woodyiiiiiii/LeetCode/issues/178) (同样是path问题/dfs)
-
-* * *
-
 **Backtracking**
 
 * [46. Permutations](https://github.com/Woodyiiiiiii/LeetCode/issues/50) **
@@ -254,6 +228,34 @@
 * [2178. Maximum Split of Positive Even Integers](https://github.com/Woodyiiiiiii/LeetCode/issues/172)
 
 * [2086. Minimum Number of Food Buckets to Feed the Hamsters](https://github.com/Woodyiiiiiii/LeetCode/issues/177) (辐射)
+
+* * *
+
+**Tree**
+
+* [98. Validate Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/26)
+
+* [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/32)
+
+* [617. Merge Two Binary Trees](https://github.com/Woodyiiiiiii/LeetCode/issues/36)
+
+* [103. Binary Tree Zigzag Level Order Traversal](https://github.com/Woodyiiiiiii/LeetCode/issues/47)
+
+* [94. Binary Tree Inorder Traversal](https://github.com/Woodyiiiiiii/LeetCode/issues/65)
+
+* [96. Unique Binary Search Trees](https://github.com/Woodyiiiiiii/LeetCode/issues/66)
+
+* [222. Count Complete Tree Nodes](https://github.com/Woodyiiiiiii/LeetCode/issues/76)
+
+* [2458. Height of Binary Tree After Subtree Removal Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/148)
+
+* [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/173) (多叉树的深度遍历)
+
+* [124. Binary Tree Maximum Path Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/18) (树的path问题/dfs)
+
+* [2385. Amount of Time for Binary Tree to Be Infected ](https://github.com/Woodyiiiiiii/LeetCode/issues/178) (同样是path问题/dfs)
+
+* [2421. Number of Good Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/179) (并查集+数学+排序连接)
 
 * * *
 
