@@ -145,6 +145,8 @@
 
 * [2516. Take K of Each Character From Left and Right](https://github.com/Woodyiiiiiii/LeetCode/issues/165)
 
+* [2537. Count the Number of Good Subarrays](https://github.com/Woodyiiiiiii/LeetCode/issues/180) (滑动窗口/逆向思维/子数组数量变化计算)
+
 * * *
 
 **String**
