@@ -259,6 +259,8 @@
 
 * [2421. Number of Good Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/179) (并查集+数学+排序连接)
 
+* [2538. Difference Between Maximum and Minimum Price Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/181) (rerooting/DFS缓存)
+
 * * *
 
 **Graph**
