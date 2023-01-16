@@ -385,7 +385,7 @@
 
 * [2327. Number of People Aware of a Secret](https://github.com/Woodyiiiiiii/LeetCode/issues/131)
 
-* [2400. Number of Ways to Reach a Position After Exactly k Steps](https://github.com/Woodyiiiiiii/LeetCode/issues/137)
+* [2400. Number of Ways to Reach a Position After Exactly k Steps](https://github.com/Woodyiiiiiii/LeetCode/issues/137) (在数轴上移动DP)
 
 * [2435. Paths in Matrix Whose Sum Is Divisible by K](https://github.com/Woodyiiiiiii/LeetCode/issues/142)
 
