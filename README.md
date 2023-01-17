@@ -395,7 +395,7 @@
 
 * [2536. Increment Submatrices by One](https://github.com/Woodyiiiiiii/LeetCode/issues/183) (二维数组前缀和)
 
-* [926. Flip String to Monotone Increasing](https://github.com/Woodyiiiiiii/LeetCode/issues/184)
+* [926. Flip String to Monotone Increasing](https://github.com/Woodyiiiiiii/LeetCode/issues/184) (前缀和/DP)
 
 * * *
 
