@@ -191,6 +191,8 @@
 
 * [2503. Maximum Number of Points From Grid Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/162) (BFS+presum)
 
+* [2290. Minimum Obstacle Removal to Reach Corner](https://github.com/Woodyiiiiiii/LeetCode/issues/186) (BFS/PQ)
+
 * * *
 
 **Backtracking**
