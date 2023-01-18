@@ -67,6 +67,10 @@
 
 * [452. Minimum Number of Arrows to Burst Balloons](https://github.com/Woodyiiiiiii/LeetCode/issues/167) (interval类型题目)
 
+* [53. Maximum Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/23)
+
+* [918. Maximum Sum Circular Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/185) (kadane算法)
+
 * * *
 
 **Binary Search**
@@ -310,8 +314,6 @@
 * [1143. Longest Common Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/21)
 
 * [120. Triangle](https://github.com/Woodyiiiiiii/LeetCode/issues/22)
-
-* [53. Maximum Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/23)
 
 * [518. Coin Change 2](https://github.com/Woodyiiiiiii/LeetCode/issues/24)
 
