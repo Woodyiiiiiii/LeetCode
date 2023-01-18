@@ -67,7 +67,7 @@
 
 * [452. Minimum Number of Arrows to Burst Balloons](https://github.com/Woodyiiiiiii/LeetCode/issues/167) (interval类型题目)
 
-* [53. Maximum Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/23)
+* [53. Maximum Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/23) (kadane/DP/分治法)
 
 * [918. Maximum Sum Circular Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/185) (kadane算法)
 
