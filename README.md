@@ -71,6 +71,8 @@
 
 * [918. Maximum Sum Circular Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/185) (kadane算法)
 
+* [974. Subarray Sums Divisible by K](https://github.com/Woodyiiiiiii/LeetCode/issues/187) (前缀和/Map)
+
 * * *
 
 **Binary Search**
