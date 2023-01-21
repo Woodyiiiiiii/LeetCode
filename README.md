@@ -315,6 +315,8 @@
 
 * [354. Russian Doll Envelopes](https://github.com/Woodyiiiiiii/LeetCode/issues/126)(LIS问题)
 
+* [646. Maximum Length of Pair Chain](https://github.com/Woodyiiiiiii/LeetCode/issues/188) (LIS/Greedy)
+
 * [1143. Longest Common Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/21)
 
 * [120. Triangle](https://github.com/Woodyiiiiiii/LeetCode/issues/22)
