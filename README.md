@@ -99,6 +99,8 @@
 
 * [703. Kth Largest Element in a Stream](https://github.com/Woodyiiiiiii/LeetCode/issues/97)
 
+* [1383. Maximum Performance of a Team](https://github.com/Woodyiiiiiii/LeetCode/issues/190) **(Heap/Sort)**
+
 * * *
 
 **Linkedlist**
@@ -407,6 +409,8 @@
 
 * [131. Palindrome Partitioning](https://github.com/Woodyiiiiiii/LeetCode/issues/189) (Palindrome/DP/Backtrack)
 
+* [2547. Minimum Cost to Split an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/192) (coin change的变型)
+
 * * *
 
 **Others**
@@ -436,5 +440,7 @@
 * [2532. Time to Cross a Bridge](https://github.com/Woodyiiiiiii/LeetCode/issues/170) (模拟题)
 
 * [2402. Meeting Rooms III](https://github.com/Woodyiiiiiii/LeetCode/issues/182) (模拟题)
+
+* [2543. Check if Point Is Reachable](https://github.com/Woodyiiiiiii/LeetCode/issues/191) (点能否到点的问题/找规律/数学)
 
 * * *
