@@ -405,6 +405,8 @@
 
 * [926. Flip String to Monotone Increasing](https://github.com/Woodyiiiiiii/LeetCode/issues/184) (前缀和/DP)
 
+* [131. Palindrome Partitioning](https://github.com/Woodyiiiiiii/LeetCode/issues/189) (Palindrome/DP/Backtrack)
+
 * * *
 
 **Others**
