@@ -73,6 +73,8 @@
 
 * [974. Subarray Sums Divisible by K](https://github.com/Woodyiiiiiii/LeetCode/issues/187) (前缀和/Map)
 
+* [2449. Minimum Number of Operations to Make Arrays Similar](https://github.com/Woodyiiiiiii/LeetCode/issues/193) (Sort/Greedy)
+
 * * *
 
 **Binary Search**
