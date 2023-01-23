@@ -1,7 +1,7 @@
 # notes after every contest
 
 **tips:**
-1. 观察示例和题目条件，**总结规律**，试错
+1. 观察示例和题目条件，**总结规律**，试错，**发散思维(No.2166)**
 2. 学会用工具类或方法来优化时间，如hash(map,set)/**priorityQueue(主要是PQ)**
 3. 掌握基本方法，比如graph相关的dfs/bfs/union find
 4. 紧紧围绕题目条件展开，比如No.1028，抓住建树+**层级**这两个条件
