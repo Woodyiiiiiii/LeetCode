@@ -189,7 +189,7 @@
 
 * [329. Longest Increasing Path in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/124)
 
-* [2328. Number of Increasing Paths in a Grid](https://github.com/Woodyiiiiiii/LeetCode/issues/130)
+* [2328. Number of Increasing Paths in a Grid](https://github.com/Woodyiiiiiii/LeetCode/issues/130) (DFS+记忆化搜索/多源BFS+优先队列)
 
 * [2477. Minimum Fuel Cost to Report to the Capital](https://github.com/Woodyiiiiiii/LeetCode/issues/151)
 
