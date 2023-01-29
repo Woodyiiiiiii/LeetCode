@@ -415,7 +415,7 @@
 
 * [2547. Minimum Cost to Split an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/192) (coin change的变型)
 
-* [2552. Count Increasing Quadruplets](https://github.com/Woodyiiiiiii/LeetCode/issues/196) (三元组/四元组/DP)
+* [2552. Count Increasing Quadruplets](https://github.com/Woodyiiiiiii/LeetCode/issues/196) (三元组/四元组/DP/元素在n范围内)
 
 * * *
 
