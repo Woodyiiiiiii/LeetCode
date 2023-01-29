@@ -133,6 +133,8 @@
 
 * [2289. Steps to Make Array Non-decreasing](https://github.com/Woodyiiiiiii/LeetCode/issues/176) (单调栈/dp)
 
+* [2551. Put Marbles in Bags](https://github.com/Woodyiiiiiii/LeetCode/issues/195) (两端数之和/Heap)
+
 * * *
 
 **Sliding Window & Two Points**
@@ -413,6 +415,8 @@
 
 * [2547. Minimum Cost to Split an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/192) (coin change的变型)
 
+* [2552. Count Increasing Quadruplets](https://github.com/Woodyiiiiiii/LeetCode/issues/196) (三元组/四元组/DP)
+
 * * *
 
 **Others**
@@ -444,5 +448,7 @@
 * [2402. Meeting Rooms III](https://github.com/Woodyiiiiiii/LeetCode/issues/182) (模拟题)
 
 * [2543. Check if Point Is Reachable](https://github.com/Woodyiiiiiii/LeetCode/issues/191) (点能否到点的问题/找规律/数学)
+
+* [2550. Count Collisions of Monkeys on a Polygon](https://github.com/Woodyiiiiiii/LeetCode/issues/194) (快速幂)
 
 * * *
