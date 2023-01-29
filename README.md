@@ -417,7 +417,7 @@
 
 **Others**
 
-* [146. LRU Cache](https://github.com/Woodyiiiiiii/LeetCode/issues/61)
+* [146. LRU Cache](https://github.com/Woodyiiiiiii/LeetCode/issues/61) (LRU/LFU)
 
 * [69. Sqrt(x)](https://github.com/Woodyiiiiiii/LeetCode/issues/85)
 
