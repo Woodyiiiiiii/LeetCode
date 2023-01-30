@@ -75,6 +75,8 @@
 
 * [2449. Minimum Number of Operations to Make Arrays Similar](https://github.com/Woodyiiiiiii/LeetCode/issues/193) (Sort/Greedy)
 
+* [315. Count of Smaller Numbers After Self](https://github.com/Woodyiiiiiii/LeetCode/issues/197) **(树状数组)**
+
 * * *
 
 **Binary Search**
