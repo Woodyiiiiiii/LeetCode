@@ -161,6 +161,8 @@
 
 * [2537. Count the Number of Good Subarrays](https://github.com/Woodyiiiiiii/LeetCode/issues/180) (滑动窗口/可逆向思维/子数组数量变化计算)
 
+* [2234. Maximum Total Beauty of the Gardens](https://github.com/Woodyiiiiiii/LeetCode/issues/199) (Sorting/Two Pointers)
+
 * * *
 
 **String**
