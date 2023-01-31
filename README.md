@@ -419,6 +419,8 @@
 
 * [2552. Count Increasing Quadruplets](https://github.com/Woodyiiiiiii/LeetCode/issues/196) (三元组/四元组/DP/元素在n范围内)
 
+* [1626. Best Team With No Conflicts](https://github.com/Woodyiiiiiii/LeetCode/issues/198) **(Sorting/DP)**
+
 * * *
 
 **Others**
