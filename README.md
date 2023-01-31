@@ -205,6 +205,8 @@
 
 * [2290. Minimum Obstacle Removal to Reach Corner](https://github.com/Woodyiiiiiii/LeetCode/issues/186) (BFS/PQ)
 
+* [1976. Number of Ways to Arrive at Destination](https://github.com/Woodyiiiiiii/LeetCode/issues/200) (**BFS+PQ/Dijkstra**)
+
 * * *
 
 **Backtracking**
