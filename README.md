@@ -137,6 +137,8 @@
 
 * [2289. Steps to Make Array Non-decreasing](https://github.com/Woodyiiiiiii/LeetCode/issues/176) (单调栈/dp)
 
+* [85. Maximal Rectangle](https://github.com/Woodyiiiiiii/LeetCode/issues/201) (单调栈/DP)
+
 * * *
 
 **Sliding Window & Two Points**
@@ -424,6 +426,8 @@
 * [2552. Count Increasing Quadruplets](https://github.com/Woodyiiiiiii/LeetCode/issues/196) (三元组/四元组/DP/元素在n范围内)
 
 * [1626. Best Team With No Conflicts](https://github.com/Woodyiiiiiii/LeetCode/issues/198) **(Sorting/DP)**
+
+* [1727. Largest Submatrix With Rearrangements](https://github.com/Woodyiiiiiii/LeetCode/issues/202) (Sorting/DP)
 
 * * *
 
