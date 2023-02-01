@@ -51,7 +51,7 @@
 
 * [56. Merge Intervals](https://github.com/Woodyiiiiiii/LeetCode/issues/77)
 
-* [42. Trapping Rain Water](https://github.com/Woodyiiiiiii/LeetCode/issues/79)
+* [42. Trapping Rain Water](https://github.com/Woodyiiiiiii/LeetCode/issues/79) (DP/单调栈)
 
 * [41. First Missing Positive](https://github.com/Woodyiiiiiii/LeetCode/issues/81)
 
