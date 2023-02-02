@@ -429,6 +429,8 @@
 
 * [1727. Largest Submatrix With Rearrangements](https://github.com/Woodyiiiiiii/LeetCode/issues/202) (Sorting/DP)
 
+* [1911. Maximum Alternating Subsequence Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/203) (DP/Greedy)
+
 * * *
 
 **Others**
