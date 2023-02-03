@@ -33,6 +33,8 @@
 
 * [2411. Smallest Subarrays With Maximum Bitwise OR](https://github.com/Woodyiiiiiii/LeetCode/issues/174) (或运算|与最值)
 
+* [2527. Find Xor-Beauty of Array](https://github.com/Woodyiiiiiii/LeetCode/issues/204) (XOR运算的’交换律‘)
+
 * * *
 
 **Array**
