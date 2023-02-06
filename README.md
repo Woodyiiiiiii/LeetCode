@@ -433,6 +433,8 @@
 
 * [1911. Maximum Alternating Subsequence Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/203) (DP/Greedy)
 
+* [2555. Maximize Win From Two Segments](https://github.com/Woodyiiiiiii/LeetCode/issues/205)
+
 * * *
 
 **Others**
