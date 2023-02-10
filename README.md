@@ -211,6 +211,8 @@
 
 * [1976. Number of Ways to Arrive at Destination](https://github.com/Woodyiiiiiii/LeetCode/issues/200) (**BFS+PQ/Dijkstra**)
 
+* [1162. As Far from Land as Possible](https://github.com/Woodyiiiiiii/LeetCode/issues/207) (BFS/DP)
+
 * * *
 
 **Backtracking**
