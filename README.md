@@ -79,7 +79,7 @@
 
 * [315. Count of Smaller Numbers After Self](https://github.com/Woodyiiiiiii/LeetCode/issues/197) **(树状数组)**
 
-* [2563. Count the Number of Fair Pairs](https://github.com/Woodyiiiiiii/LeetCode/issues/209) (排序+two pointers)
+* [2563. Count the Number of Fair Pairs](https://github.com/Woodyiiiiiii/LeetCode/issues/209) (排序+two pointers/二分)
 
 * * *
 
