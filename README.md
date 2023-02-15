@@ -479,4 +479,6 @@
 
 * [2550. Count Collisions of Monkeys on a Polygon](https://github.com/Woodyiiiiiii/LeetCode/issues/194) (快速幂)
 
+* [1250. Check If It Is a Good Array](https://github.com/Woodyiiiiiii/LeetCode/issues/211)
+
 * * *
