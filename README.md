@@ -35,6 +35,8 @@
 
 * [1734. Decode XORed Permutation](https://github.com/Woodyiiiiiii/LeetCode/issues/204) (XOR运算的’交换律‘)
 
+* [2564. Substring XOR Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/212) (XOR+常识)
+
 * * *
 
 **Array**
