@@ -37,6 +37,8 @@
 
 * [2564. Substring XOR Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/212) (XOR+常识)
 
+* [2568. Minimum Impossible OR](https://github.com/Woodyiiiiiii/LeetCode/issues/213)
+
 * * *
 
 **Array**
