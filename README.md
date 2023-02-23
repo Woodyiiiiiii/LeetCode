@@ -449,6 +449,8 @@
 
 * [2054. Two Best Non-Overlapping Events](https://github.com/Woodyiiiiiii/LeetCode/issues/206) (二分/自顶向下DP/记忆化搜索/)
 
+* [2572. Count the Number of Square-Free Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/214) (DP+bitmask)
+
 * * *
 
 **Others**
