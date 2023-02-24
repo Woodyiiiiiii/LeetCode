@@ -451,6 +451,8 @@
 
 * [2572. Count the Number of Square-Free Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/214) (DP+bitmask)
 
+* [1986. Minimum Number of Work Sessions to Finish the Tasks](https://github.com/Woodyiiiiiii/LeetCode/issues/215) (DP+bitmask+dfs)
+
 * * *
 
 **Others**
