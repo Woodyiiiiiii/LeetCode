@@ -225,6 +225,8 @@
 
 * [2556. Disconnect Path in a Binary Matrix by at Most One Flip](https://github.com/Woodyiiiiiii/LeetCode/issues/208) (DFS/路径覆盖)
 
+* [1345. Jump Game IV](https://github.com/Woodyiiiiiii/LeetCode/issues/217)
+
 * * *
 
 **Backtracking**
