@@ -87,6 +87,8 @@
 
 * [1871. Jump Game VII](https://github.com/Woodyiiiiiii/LeetCode/issues/218) (preSum/sliding)
 
+* [2584. Split the Array to Make Coprime Products](https://github.com/Woodyiiiiiii/LeetCode/issues/219) (Array/Map)
+
 * * *
 
 **Binary Search**
