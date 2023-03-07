@@ -89,6 +89,8 @@
 
 * [2584. Split the Array to Make Coprime Products](https://github.com/Woodyiiiiiii/LeetCode/issues/219) (Array/Map)
 
+* [2444. Count Subarrays With Fixed Bounds](https://github.com/Woodyiiiiiii/LeetCode/issues/220) (Sliding Window / Queue)
+
 * * *
 
 **Binary Search**
