@@ -307,6 +307,8 @@
 
 * [968. Binary Tree Cameras](https://github.com/Woodyiiiiiii/LeetCode/issues/171) (树状DP)
 
+* [2581. Count Number of Possible Root Nodes](https://github.com/Woodyiiiiiii/LeetCode/issues/221) (rerooting/twice DFS)
+
 * * *
 
 **Graph**
