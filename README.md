@@ -465,6 +465,8 @@
 
 * [1986. Minimum Number of Work Sessions to Finish the Tasks](https://github.com/Woodyiiiiiii/LeetCode/issues/215) (DP+bitmask+dfs)
 
+* [2585. Number of Ways to Earn Points](https://github.com/Woodyiiiiiii/LeetCode/issues/222) (Knapsack / Limited Coin Change)
+
 * * *
 
 **Others**
