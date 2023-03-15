@@ -91,6 +91,8 @@
 
 * [2444. Count Subarrays With Fixed Bounds](https://github.com/Woodyiiiiiii/LeetCode/issues/220) (Sliding Window / Queue)
 
+* [2588. Count the Number of Beautiful Subarrays](https://github.com/Woodyiiiiiii/LeetCode/issues/224) (XOR / preSum)
+
 * * *
 
 **Binary Search**
