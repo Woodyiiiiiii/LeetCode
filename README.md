@@ -93,6 +93,8 @@
 
 * [2588. Count the Number of Beautiful Subarrays](https://github.com/Woodyiiiiiii/LeetCode/issues/224) (XOR / preSum)
 
+* [2589. Minimum Time to Complete All Tasks](https://github.com/Woodyiiiiiii/LeetCode/issues/225) (Interval / Sorting / Greedy)
+
 * * *
 
 **Binary Search**
