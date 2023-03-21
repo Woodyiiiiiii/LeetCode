@@ -89,7 +89,7 @@
 
 * [2584. Split the Array to Make Coprime Products](https://github.com/Woodyiiiiiii/LeetCode/issues/219) (Array/Map)
 
-* [2444. Count Subarrays With Fixed Bounds](https://github.com/Woodyiiiiiii/LeetCode/issues/220) (Sliding Window / Subarray)
+* [2444. Count Subarrays With Fixed Bounds](https://github.com/Woodyiiiiiii/LeetCode/issues/220) (Sliding Window / Subarray / Three Pointers)
 
 * [2588. Count the Number of Beautiful Subarrays](https://github.com/Woodyiiiiiii/LeetCode/issues/224) (XOR / preSum)
 
