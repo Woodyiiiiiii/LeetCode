@@ -95,6 +95,8 @@
 
 * [2589. Minimum Time to Complete All Tasks](https://github.com/Woodyiiiiiii/LeetCode/issues/225) (Interval / Sorting / Greedy)
 
+* [2348. Number of Zero-Filled Subarrays](https://github.com/Woodyiiiiiii/LeetCode/issues/227) (Omit)
+
 * * *
 
 **Binary Search**
