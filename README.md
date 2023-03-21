@@ -473,6 +473,8 @@
 
 * [2585. Number of Ways to Earn Points](https://github.com/Woodyiiiiiii/LeetCode/issues/222) (Knapsack / Limited Coin Change)
 
+* [1012. Numbers With Repeated Digits](https://github.com/Woodyiiiiiii/LeetCode/issues/226) (Digit DP / Memorize Search / DFS)
+
 * * *
 
 **Others**
