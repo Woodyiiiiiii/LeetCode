@@ -339,7 +339,7 @@
 
 * [2492. Minimum Score of a Path Between Two Cities](https://github.com/Woodyiiiiiii/LeetCode/issues/157)
 
-* [1697. Checking Existence of Edge Length Limited Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/158) **(树或图的path问题/Union Find)**
+* [1697. Checking Existence of Edge Length Limited Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/158) (树或图的path问题/**Union Find 汇总**)
 
 * [2421. Number of Good Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/179) (树或图path问题/并查集+数学+排序连接)
 
