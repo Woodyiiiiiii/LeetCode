@@ -97,6 +97,8 @@
 
 * [2348. Number of Zero-Filled Subarrays](https://github.com/Woodyiiiiiii/LeetCode/issues/227) (Omit)
 
+* [2597. The Number of Beautiful Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/228) (Subset / Hash / Set / Math)
+
 * * *
 
 **Binary Search**
