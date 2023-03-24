@@ -479,6 +479,8 @@
 
 * [1012. Numbers With Repeated Digits](https://github.com/Woodyiiiiiii/LeetCode/issues/226) (Digit DP / Memorize Search / DFS)
 
+* [1553. Minimum Number of Days to Eat N Oranges](https://github.com/Woodyiiiiiii/LeetCode/issues/229) (**memoization**)
+
 * * *
 
 **Others**
