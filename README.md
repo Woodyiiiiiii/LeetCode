@@ -241,6 +241,8 @@
 
 * [1345. Jump Game IV](https://github.com/Woodyiiiiiii/LeetCode/issues/217) (BFS in Array)
 
+* [2612. Minimum Reverse Operations](https://github.com/Woodyiiiiiii/LeetCode/issues/231) (BFS in Array / TreeSet)
+
 * * *
 
 **Backtracking**
