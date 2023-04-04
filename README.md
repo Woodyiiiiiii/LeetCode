@@ -351,7 +351,7 @@
 
 * [2421. Number of Good Paths](https://github.com/Woodyiiiiiii/LeetCode/issues/179) (树或图path问题/并查集+数学+排序连接)
 
-* [2360. Longest Cycle in a Graph](https://github.com/Woodyiiiiiii/LeetCode/issues/233) (无向图或有向图中的计算环长度问题/DFS或BFS)
+* [2608. Shortest Cycle in a Graph / 2360. Longest Cycle in a Graph](https://github.com/Woodyiiiiiii/LeetCode/issues/233) (无向图或有向图中的计算环长度问题/DFS或BFS)
 
 * * *
 
