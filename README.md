@@ -491,6 +491,8 @@
 
 * [1553. Minimum Number of Days to Eat N Oranges](https://github.com/Woodyiiiiiii/LeetCode/issues/229) (**Memoization+DFS 记忆化搜索**)
 
+* [1000. Minimum Cost to Merge Stones](https://github.com/Woodyiiiiiii/LeetCode/issues/234) (**区间DP**)
+
 * * *
 
 **Others**
