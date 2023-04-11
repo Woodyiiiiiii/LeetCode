@@ -119,6 +119,8 @@
 
 * [2576. Find the Maximum Number of Marked Indices](https://github.com/Woodyiiiiiii/LeetCode/issues/216) (二分+贪心 / 双指针)
 
+* [2616. Minimize the Maximum Difference of Pairs](https://github.com/Woodyiiiiiii/LeetCode/issues/235) (二分+贪心+数学归纳法)
+
 * * * 
 
 **Top K**
