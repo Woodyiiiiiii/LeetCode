@@ -39,6 +39,8 @@
 
 * [2568. Minimum Impossible OR](https://github.com/Woodyiiiiiii/LeetCode/issues/213)
 
+* [1915. Number of Wonderful Substrings](https://github.com/Woodyiiiiiii/LeetCode/issues/236) (preSum + bitmask)
+
 * * *
 
 **Array**
