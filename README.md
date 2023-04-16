@@ -357,6 +357,8 @@
 
 * [2608. Shortest Cycle in a Graph / 2360. Longest Cycle in a Graph](https://github.com/Woodyiiiiiii/LeetCode/issues/233) (无向图或有向图中的计算环长度问题/DFS或BFS)
 
+* [2642. Design Graph With Shortest Path Calculator](https://github.com/Woodyiiiiiii/LeetCode/issues/238) (有向权值图中两点最短路径)
+
 * * *
 
 **DP**
