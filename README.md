@@ -331,6 +331,8 @@
 
 * [2603. Collect Coins in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/230) (**Topological Sort 拓扑排序 总**)
 
+* [1026. Maximum Difference Between Node and Ancestor](https://github.com/Woodyiiiiiii/LeetCode/issues/239) (递/归两种dfs)
+
 * * *
 
 **Graph**
