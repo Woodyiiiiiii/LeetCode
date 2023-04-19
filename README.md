@@ -503,6 +503,8 @@
 
 * [2218. Maximum Value of K Coins From Piles](https://github.com/Woodyiiiiiii/LeetCode/issues/237) (Top-down DP / Memoization)
 
+* [1043. Partition Array for Maximum Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/241) (Memoization -> DP)
+
 * [940. Distinct Subsequences II / 1987. Number of Unique Good Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/240) (String Subsequences / DP / Ends)
 
 * * *
