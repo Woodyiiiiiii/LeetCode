@@ -333,6 +333,8 @@
 
 * [1026. Maximum Difference Between Node and Ancestor](https://github.com/Woodyiiiiiii/LeetCode/issues/239) (递/归两种dfs)
 
+* [2646. Minimize the Total Price of the Trips](https://github.com/Woodyiiiiiii/LeetCode/issues/242) (**树形DP**)
+
 * * *
 
 **Graph**
