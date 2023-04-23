@@ -171,6 +171,8 @@
 
 * [1124. Longest Well-Performing Interval](https://github.com/Woodyiiiiiii/LeetCode/issues/210) **(单调栈/哈希)**
 
+* [1856. Maximum Subarray Min-Product](https://github.com/Woodyiiiiiii/LeetCode/issues/243) (Monotonic Stack单调栈)
+
 * * *
 
 **Sliding Window & Two Points**
