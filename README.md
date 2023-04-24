@@ -41,6 +41,8 @@
 
 * [1915. Number of Wonderful Substrings](https://github.com/Woodyiiiiiii/LeetCode/issues/236) (preSum + bitmask)
 
+* [1178. Number of Valid Words for Each Puzzle](https://github.com/Woodyiiiiiii/LeetCode/issues/244) (bitmask)
+
 * * *
 
 **Array**
