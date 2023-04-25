@@ -299,6 +299,8 @@
 
 * [1605. Find Valid Matrix Given Row and Column Sums](https://github.com/Woodyiiiiiii/LeetCode/issues/223) (二维数组/贪心)
 
+* [1899. Merge Triplets to Form Target Triplet](https://github.com/Woodyiiiiiii/LeetCode/issues/245) (Greedy)
+
 * * *
 
 **Tree**
