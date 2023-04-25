@@ -105,6 +105,8 @@
 
 * [2607. Make K-Subarray Sums Equal](https://github.com/Woodyiiiiiii/LeetCode/issues/232) (Circluar Array / Median)
 
+* [2536. Increment Submatrices by One / LCP 74. 最强祝福力场](https://github.com/Woodyiiiiiii/LeetCode/issues/183) (**离散化+二维差分**)
+
 * * *
 
 **Binary Search**
@@ -476,8 +478,6 @@
 * [2435. Paths in Matrix Whose Sum Is Divisible by K](https://github.com/Woodyiiiiiii/LeetCode/issues/142)
 
 * [2518. Number of Great Partitions](https://github.com/Woodyiiiiiii/LeetCode/issues/166) (coin change/knapsack背包)
-
-* [2536. Increment Submatrices by One](https://github.com/Woodyiiiiiii/LeetCode/issues/183) (二维数组前缀和)
 
 * [926. Flip String to Monotone Increasing / 1653. Minimum Deletions to Make String Balanced](https://github.com/Woodyiiiiiii/LeetCode/issues/184) (前缀和/DP)
 
