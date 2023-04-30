@@ -371,6 +371,8 @@
 
 * [2642. Design Graph With Shortest Path Calculator](https://github.com/Woodyiiiiiii/LeetCode/issues/238) (有向权值图中两点最短路径)
 
+* [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/Woodyiiiiiii/LeetCode/issues/246) (Union Find + 分类 + 删除/贪心)
+
 * * *
 
 **DP**
