@@ -217,6 +217,8 @@
 
 * [2484. Count Palindromic Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/154) (奇数次Palindromic String DP)
 
+* [2663. Lexicographically Smallest Beautiful String](https://github.com/Woodyiiiiiii/LeetCode/issues/248) (palindrome + greedy + 思维题)
+
 * * *
 
 **BFS/DFS**
