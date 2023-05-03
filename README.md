@@ -373,6 +373,8 @@
 
 * [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://github.com/Woodyiiiiiii/LeetCode/issues/246) (Union Find + 分类 + 删除/贪心)
 
+* [2662. Minimum Cost of a Path With Special Roads](https://github.com/Woodyiiiiiii/LeetCode/issues/247) (**朴素Dijkstra**)
+
 * * *
 
 **DP**
