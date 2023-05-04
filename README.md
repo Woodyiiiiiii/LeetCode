@@ -177,6 +177,8 @@
 
 * [1856. Maximum Subarray Min-Product](https://github.com/Woodyiiiiiii/LeetCode/issues/243) (Monotonic Stack单调栈)
 
+* [649. Dota2 Senate](https://github.com/Woodyiiiiiii/LeetCode/issues/249) (Simulation + Queue)
+
 * * *
 
 **Sliding Window & Two Points**
