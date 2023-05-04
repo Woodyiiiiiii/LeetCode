@@ -43,6 +43,8 @@
 
 * [1178. Number of Valid Words for Each Puzzle](https://github.com/Woodyiiiiiii/LeetCode/issues/244) (bitmask)
 
+* [1542. Find Longest Awesome Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/250) (bitmask + prefix)
+
 * * *
 
 **Array**
