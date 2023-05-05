@@ -109,6 +109,8 @@
 
 * [2536. Increment Submatrices by One / LCP 74. 最强祝福力场](https://github.com/Woodyiiiiiii/LeetCode/issues/183) (**离散化+二维差分**)
 
+* [2653. Sliding Subarray Beauty / 1419. Minimum Number of Frogs Croaking](https://github.com/Woodyiiiiiii/LeetCode/issues/252) (**Counting**)
+
 * * *
 
 **Binary Search**
