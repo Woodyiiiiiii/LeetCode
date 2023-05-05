@@ -207,6 +207,8 @@
 
 * [2234. Maximum Total Beauty of the Gardens](https://github.com/Woodyiiiiiii/LeetCode/issues/199) (Sorting/Two Pointers)
 
+* [1793. Maximum Score of a Good Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/251) (Greedy + Two pointers)
+
 * * *
 
 **String**
