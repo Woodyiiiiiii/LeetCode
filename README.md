@@ -131,6 +131,8 @@
 
 * [2616. Minimize the Maximum Difference of Pairs](https://github.com/Woodyiiiiiii/LeetCode/issues/235) (二分+贪心+**数学归纳法**)
 
+* [1498. Number of Subsequences That Satisfy the Given Sum Condition / 1964. Find the Longest Valid Obstacle Course at Each Position](https://github.com/Woodyiiiiiii/LeetCode/issues/253)
+
 * * * 
 
 **Top K**
