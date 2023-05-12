@@ -355,6 +355,8 @@
 
 * [2646. Minimize the Total Price of the Trips](https://github.com/Woodyiiiiiii/LeetCode/issues/242) (**树形DP**)
 
+* [2673. Make Costs of Paths Equal in a Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/254) (树上DFS/归并贪心)
+
 * * *
 
 **Graph**
