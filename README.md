@@ -45,6 +45,8 @@
 
 * [1542. Find Longest Awesome Substring](https://github.com/Woodyiiiiiii/LeetCode/issues/250) (bitmask + prefix)
 
+* [2680. Maximum OR](https://github.com/Woodyiiiiiii/LeetCode/issues/255) (bit OR)
+
 * * *
 
 **Array**
