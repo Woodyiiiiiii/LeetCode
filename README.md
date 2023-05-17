@@ -535,6 +535,8 @@
 
 * [940. Distinct Subsequences II / 1987. Number of Unique Good Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/240) (String Subsequences / DP / Ends)
 
+* [2681. Power of Heroes](https://github.com/Woodyiiiiiii/LeetCode/issues/256) (DP)
+
 * * *
 
 **Others**
