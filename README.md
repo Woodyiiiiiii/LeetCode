@@ -183,7 +183,7 @@
 
 * [1124. Longest Well-Performing Interval](https://github.com/Woodyiiiiiii/LeetCode/issues/210) **(单调栈/哈希)**
 
-* [1856. Maximum Subarray Min-Product](https://github.com/Woodyiiiiiii/LeetCode/issues/243) (Monotonic Stack单调栈)
+* [1856. Maximum Subarray Min-Product](https://github.com/Woodyiiiiiii/LeetCode/issues/243) (Monotonic Stack单调栈 / **单调栈+贡献法汇总**)
 
 * [649. Dota2 Senate](https://github.com/Woodyiiiiiii/LeetCode/issues/249) (Simulation + Queue)
 
