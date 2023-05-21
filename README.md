@@ -269,6 +269,8 @@
 
 * [2612. Minimum Reverse Operations](https://github.com/Woodyiiiiiii/LeetCode/issues/231) (BFS in Array / **TreeSet**)
 
+* [934. Shortest Bridge](https://github.com/Woodyiiiiiii/LeetCode/issues/257) (BFS/DFS/**visited**)
+
 * * *
 
 **Backtracking**
