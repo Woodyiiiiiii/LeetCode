@@ -293,6 +293,8 @@
 
 * [212. Word Search II](https://github.com/Woodyiiiiiii/LeetCode/issues/74)(Trie)
 
+* [2698. Find the Punishment Number of an Integer](https://github.com/Woodyiiiiiii/LeetCode/issues/258) (Backtracking + 预处理)
+
 * * *
 
 **Greedy**
