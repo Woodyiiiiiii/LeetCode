@@ -135,6 +135,8 @@
 
 * [1498. Number of Subsequences That Satisfy the Given Sum Condition / 1964. Find the Longest Valid Obstacle Course at Each Position](https://github.com/Woodyiiiiiii/LeetCode/issues/253) (Binary Search in Array)
 
+* [1760. Minimum Limit of Balls in a Bag](https://github.com/Woodyiiiiiii/LeetCode/issues/260) (10^9二分后是多少？)
+
 * * * 
 
 **Top K**
