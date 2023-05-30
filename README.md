@@ -541,6 +541,8 @@
 
 * [2681. Power of Heroes](https://github.com/Woodyiiiiiii/LeetCode/issues/256) (DP)
 
+* [2708. Maximum Strength of a Group](https://github.com/Woodyiiiiiii/LeetCode/issues/259) (top-down dp + 乘法 / Greedy)
+
 * * *
 
 **Others**
