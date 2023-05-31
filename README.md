@@ -397,6 +397,8 @@
 
 * [2662. Minimum Cost of a Path With Special Roads](https://github.com/Woodyiiiiiii/LeetCode/issues/247) (**朴素Dijkstra**)
 
+* [2709. Greatest Common Divisor Traversal](https://github.com/Woodyiiiiiii/LeetCode/issues/261) (素数筛 + 并查集)
+
 * * *
 
 **DP**
