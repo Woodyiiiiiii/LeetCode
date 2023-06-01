@@ -507,7 +507,7 @@
 
 * [2518. Number of Great Partitions](https://github.com/Woodyiiiiiii/LeetCode/issues/166) (coin change/knapsack背包)
 
-* [926. Flip String to Monotone Increasing / 1653. Minimum Deletions to Make String Balanced](https://github.com/Woodyiiiiiii/LeetCode/issues/184) (前缀和/DP)
+* [926. Flip String to Monotone Increasing / 1653. Minimum Deletions to Make String Balanced](https://github.com/Woodyiiiiiii/LeetCode/issues/184) (前缀和 / **01 string** DP)
 
 * [131. Palindrome Partitioning](https://github.com/Woodyiiiiiii/LeetCode/issues/189) (Palindrome/DP/Backtrack)
 
@@ -546,6 +546,8 @@
 * [2681. Power of Heroes](https://github.com/Woodyiiiiiii/LeetCode/issues/256) (DP)
 
 * [2708. Maximum Strength of a Group](https://github.com/Woodyiiiiiii/LeetCode/issues/259) (top-down dp + 乘法 / Greedy)
+
+* [2712. Minimum Cost to Make All Characters Equal](https://github.com/Woodyiiiiiii/LeetCode/issues/262) (01 String DP / Greedy)
 
 * * *
 
