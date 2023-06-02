@@ -549,6 +549,8 @@
 
 * [2712. Minimum Cost to Make All Characters Equal](https://github.com/Woodyiiiiiii/LeetCode/issues/262) (01 String DP / Greedy)
 
+* [2713. Maximum Strictly Increasing Cells in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/263) (**多源DP** + 优先队列排序)
+
 * * *
 
 **Others**
