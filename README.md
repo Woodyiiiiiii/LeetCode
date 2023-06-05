@@ -113,6 +113,8 @@
 
 * [2653. Sliding Subarray Beauty / 1419. Minimum Number of Frogs Croaking](https://github.com/Woodyiiiiiii/LeetCode/issues/252) (**Counting**)
 
+* [2718. Sum of Matrix After Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/264) (**矩阵操作 / 倒序**)
+
 * * *
 
 **Binary Search**
