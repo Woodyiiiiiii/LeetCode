@@ -115,6 +115,8 @@
 
 * [2718. Sum of Matrix After Queries](https://github.com/Woodyiiiiiii/LeetCode/issues/264) (**矩阵操作 / 倒序**)
 
+* [2731. Movement of Robots](https://github.com/Woodyiiiiiii/LeetCode/issues/265) (**robots碰撞 / 思维题**)
+
 * * *
 
 **Binary Search**
