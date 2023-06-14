@@ -117,6 +117,8 @@
 
 * [2731. Movement of Robots](https://github.com/Woodyiiiiiii/LeetCode/issues/265) (**robots碰撞 / 思维题**)
 
+* [2735. Collecting Chocolates](https://github.com/Woodyiiiiiii/LeetCode/issues/266) (**思维题**)
+
 * * *
 
 **Binary Search**
