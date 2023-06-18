@@ -557,6 +557,8 @@
 
 * [2713. Maximum Strictly Increasing Cells in a Matrix](https://github.com/Woodyiiiiiii/LeetCode/issues/263) (**多源DP** + 优先队列排序)
 
+* [1262. Greatest Sum Divisible by Three](https://github.com/Woodyiiiiiii/LeetCode/issues/267) (Greedy + Reverse / DP)
+
 * * *
 
 **Others**
