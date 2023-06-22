@@ -559,6 +559,8 @@
 
 * [1262. Greatest Sum Divisible by Three](https://github.com/Woodyiiiiiii/LeetCode/issues/267) (Greedy + Reverse / DP)
 
+* [2741. Special Permutations](https://github.com/Woodyiiiiiii/LeetCode/issues/268) (Permulation DP 全排列DP)
+
 * * *
 
 **Others**
