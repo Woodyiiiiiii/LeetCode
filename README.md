@@ -143,6 +143,8 @@
 
 * [1760. Minimum Limit of Balls in a Bag](https://github.com/Woodyiiiiiii/LeetCode/issues/260) (**10^9二分**后是多少？)
 
+* [Codeforces Round 881 E. Tracking Segments](https://github.com/Woodyiiiiiii/LeetCode/issues/269)
+
 * * * 
 
 **Top K**
