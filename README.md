@@ -119,6 +119,8 @@
 
 * [2735. Collecting Chocolates](https://github.com/Woodyiiiiiii/LeetCode/issues/266) (**思维题**)
 
+* [2747. Count Zero Request Servers](https://github.com/Woodyiiiiiii/LeetCode/issues/271) (**Sort** + Sliding Window)
+
 * * *
 
 **Binary Search**
