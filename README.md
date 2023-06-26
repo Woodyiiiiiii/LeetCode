@@ -121,6 +121,8 @@
 
 * [2747. Count Zero Request Servers](https://github.com/Woodyiiiiiii/LeetCode/issues/271) (**Sort** + Sliding Window)
 
+* [1186. Maximum Subarray Sum with One Deletion](https://github.com/Woodyiiiiiii/LeetCode/issues/272) (sliding window ? kadane!)
+
 * * *
 
 **Binary Search**
