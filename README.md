@@ -571,6 +571,8 @@
 
 * [956. Tallest Billboard](https://github.com/Woodyiiiiiii/LeetCode/issues/270) (Memoization DFS / DP)
 
+* [2750. Ways to Split Array Into Good Subarrays ](https://github.com/Woodyiiiiiii/LeetCode/issues/274)
+
 * * *
 
 **Others**
