@@ -121,8 +121,6 @@
 
 * [2735. Collecting Chocolates](https://github.com/Woodyiiiiiii/LeetCode/issues/266) (**思维题**)
 
-* [2747. Count Zero Request Servers](https://github.com/Woodyiiiiiii/LeetCode/issues/271) (**Sort** + Sliding Window)
-
 * [1186. Maximum Subarray Sum with One Deletion](https://github.com/Woodyiiiiiii/LeetCode/issues/272) (sliding window ? kadane!)
 
 * * *
@@ -230,6 +228,8 @@
 * [2234. Maximum Total Beauty of the Gardens](https://github.com/Woodyiiiiiii/LeetCode/issues/199) (Sorting/Two Pointers)
 
 * [1793. Maximum Score of a Good Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/251) (Greedy + Two pointers)
+
+* [2747. Count Zero Request Servers](https://github.com/Woodyiiiiiii/LeetCode/issues/271) (**Sort** + Sliding Window)
 
 * * *
 
