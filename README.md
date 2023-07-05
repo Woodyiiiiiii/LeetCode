@@ -201,6 +201,8 @@
 
 * [649. Dota2 Senate](https://github.com/Woodyiiiiiii/LeetCode/issues/249) (Simulation + Queue)
 
+* [735. Asteroid Collision & 2751. Robot Collisions](https://github.com/Woodyiiiiiii/LeetCode/issues/275) (Stack / Movement)
+
 * * *
 
 **Sliding Window & Two Points**
