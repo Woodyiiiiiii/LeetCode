@@ -47,7 +47,7 @@
 
 * [2680. Maximum OR](https://github.com/Woodyiiiiiii/LeetCode/issues/255) (bit OR)
 
-* [2749. Minimum Operations to Make the Integer Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/273) (bit)
+* [2749. Minimum Operations to Make the Integer Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/273) (bit / brainteaser)
 
 * * *
 
