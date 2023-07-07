@@ -123,6 +123,8 @@
 
 * [1186. Maximum Subarray Sum with One Deletion](https://github.com/Woodyiiiiiii/LeetCode/issues/272) (sliding window ? kadane!)
 
+* [Codeforces Round 881 (Div.3) F1. Omsk Metro (simple version)](https://github.com/Woodyiiiiiii/LeetCode/issues/276)
+
 * * *
 
 **Binary Search**
