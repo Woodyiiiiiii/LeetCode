@@ -49,6 +49,10 @@
 
 * [2749. Minimum Operations to Make the Integer Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/273) (bit / brainteaser)
 
+* [2528. Maximize the Minimum Powered City](https://github.com/Woodyiiiiiii/LeetCode/issues/169) (二分+最值+分配)
+
+* [2772. Apply Operations to Make All Array Elements Equal to Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/277) (**差分数组**)
+
 * * *
 
 **Array**
@@ -136,8 +140,6 @@
 * [2250. Count Number of Rectangles Containing Each Point](https://github.com/Woodyiiiiiii/LeetCode/issues/104)
 
 * [2448. Minimum Cost to Make Array Equal](https://github.com/Woodyiiiiiii/LeetCode/issues/146)
-
-* [2528. Maximize the Minimum Powered City](https://github.com/Woodyiiiiiii/LeetCode/issues/169) (二分+最值+分配)
 
 * [2513. Minimize the Maximum of Two Arrays](https://github.com/Woodyiiiiiii/LeetCode/issues/175) (二分+集合计算)
 
