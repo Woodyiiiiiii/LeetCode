@@ -49,7 +49,7 @@
 
 * [2749. Minimum Operations to Make the Integer Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/273) (bit / brainteaser)
 
-* [2528. Maximize the Minimum Powered City](https://github.com/Woodyiiiiiii/LeetCode/issues/169) (二分+最值+分配)
+* [2528. Maximize the Minimum Powered City](https://github.com/Woodyiiiiiii/LeetCode/issues/169) (二分+差分)
 
 * [2772. Apply Operations to Make All Array Elements Equal to Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/277) (**差分数组**)
 
