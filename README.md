@@ -129,6 +129,8 @@
 
 * [Codeforces Round 881 (Div.3) F1. Omsk Metro (simple version)](https://github.com/Woodyiiiiiii/LeetCode/issues/276) (Kadane / DP)
 
+* [2779. Maximum Beauty of an Array After Applying Operation](https://github.com/Woodyiiiiiii/LeetCode/issues/278) (排序 + 滑动窗口 / 差分)
+
 * * *
 
 **Binary Search**
