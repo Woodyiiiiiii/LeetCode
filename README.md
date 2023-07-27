@@ -581,6 +581,8 @@
 
 * [2750. Ways to Split Array Into Good Subarrays ](https://github.com/Woodyiiiiiii/LeetCode/issues/274) (Greedy / DP)
 
+* [2787. Ways to Express an Integer as Sum of Powers](https://github.com/Woodyiiiiiii/LeetCode/issues/279) (**背包**)
+
 * * *
 
 **Others**
