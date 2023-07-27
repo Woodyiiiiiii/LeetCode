@@ -583,6 +583,8 @@
 
 * [2787. Ways to Express an Integer as Sum of Powers](https://github.com/Woodyiiiiiii/LeetCode/issues/279) (**背包**)
 
+* [2791. Count Paths That Can Form a Palindrome in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/280) (**状压+前缀和哈希 / 树**)
+
 * * *
 
 **Others**
