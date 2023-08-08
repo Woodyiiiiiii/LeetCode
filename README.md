@@ -295,6 +295,8 @@
 
 * [934. Shortest Bridge](https://github.com/Woodyiiiiiii/LeetCode/issues/257) (BFS/DFS/**visited**)
 
+* [1631. Path With Minimum Effort](https://github.com/Woodyiiiiiii/LeetCode/issues/282) (多源BFS)
+
 * * *
 
 **Backtracking**
