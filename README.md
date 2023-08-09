@@ -165,7 +165,7 @@
 
 * [703. Kth Largest Element in a Stream](https://github.com/Woodyiiiiiii/LeetCode/issues/97)
 
-* [1383. Maximum Performance of a Team](https://github.com/Woodyiiiiiii/LeetCode/issues/190) **(Heap/Sort)**
+* [1383. Maximum Performance of a Team / 502. IPO ](https://github.com/Woodyiiiiiii/LeetCode/issues/190) **(Heap/Sort)**
 
 * [2551. Put Marbles in Bags](https://github.com/Woodyiiiiiii/LeetCode/issues/195) (两端数之和/Heap)
 
