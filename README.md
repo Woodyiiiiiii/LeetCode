@@ -169,6 +169,8 @@
 
 * [2551. Put Marbles in Bags](https://github.com/Woodyiiiiiii/LeetCode/issues/195) (两端数之和/Heap)
 
+* [2813. Maximum Elegance of a K-Length Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/283) (堆/排序)
+
 * * *
 
 **Linkedlist**
