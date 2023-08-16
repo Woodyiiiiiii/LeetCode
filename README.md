@@ -211,6 +211,8 @@
 
 * [735. Asteroid Collision & 2751. Robot Collisions](https://github.com/Woodyiiiiiii/LeetCode/issues/275) (Stack / Movement)
 
+* [2818. Apply Operations to Maximize Score](https://github.com/Woodyiiiiiii/LeetCode/issues/284) (单调栈 + 贡献法 + 质因数 + 快速幂)
+
 * * *
 
 **Sliding Window & Two Points**
