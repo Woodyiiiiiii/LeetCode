@@ -551,7 +551,7 @@
 
 * [123. Best Time to Buy and Sell Stock III / 2555. Maximize Win From Two Segments](https://github.com/Woodyiiiiiii/LeetCode/issues/205) (DP/Sliding Window)
 
-* [2054. Two Best Non-Overlapping Events](https://github.com/Woodyiiiiiii/LeetCode/issues/206) (二分/自顶向下DP/记忆化搜索/)
+* [2054. Two Best Non-Overlapping Events / 1235. Maximum Profit in Job Scheduling](https://github.com/Woodyiiiiiii/LeetCode/issues/206) (二分/自顶向下DP/记忆化搜索/)
 
 * [2572. Count the Number of Square-Free Subsets](https://github.com/Woodyiiiiiii/LeetCode/issues/214) (DP+bitmask)
 
@@ -592,6 +592,8 @@
 * [2791. Count Paths That Can Form a Palindrome in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/280) (**状压+前缀和哈希 / 树**)
 
 * [486. Predict the Winner / 464. Can I Win](https://github.com/Woodyiiiiiii/LeetCode/issues/281) (**Game Theory** / DFS / Memoization)
+
+* [2830. Maximize the Profit as the Salesman](https://github.com/Woodyiiiiiii/LeetCode/issues/285) (**二分DP** / 同1235)
 
 * * *
 
