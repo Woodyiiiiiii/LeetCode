@@ -155,7 +155,7 @@
 
 * [Codeforces Round 881 E. Tracking Segments](https://github.com/Woodyiiiiiii/LeetCode/issues/269)
 
-* [69. Sqrt(x)](https://github.com/Woodyiiiiiii/LeetCode/issues/287) (某度外包题)
+* [69. Sqrt(x)](https://github.com/Woodyiiiiiii/LeetCode/issues/287) (某du外包题)
 
 * * * 
 
