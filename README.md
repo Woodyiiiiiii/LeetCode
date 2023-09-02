@@ -429,6 +429,8 @@
 
 * [2709. Greatest Common Divisor Traversal](https://github.com/Woodyiiiiiii/LeetCode/issues/261) (素数筛 + 并查集)
 
+* [1483. Kth Ancestor of a Tree Node / 2836. Maximize Value of Function in a Ball Passing Game](https://github.com/Woodyiiiiiii/LeetCode/issues/288) (**树上倍增**)
+
 * * *
 
 **DP**
