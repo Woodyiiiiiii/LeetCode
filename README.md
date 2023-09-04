@@ -431,6 +431,8 @@
 
 * [1483. Kth Ancestor of a Tree Node / 2836. Maximize Value of Function in a Ball Passing Game](https://github.com/Woodyiiiiiii/LeetCode/issues/288) (**树上倍增**)
 
+* [2846. Minimum Edge Weight Equilibrium Queries in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/289) (LCA模版)
+
 * * *
 
 **DP**
