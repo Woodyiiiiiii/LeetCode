@@ -131,6 +131,8 @@
 
 * [2779. Maximum Beauty of an Array After Applying Operation](https://github.com/Woodyiiiiiii/LeetCode/issues/278) (排序 + 滑动窗口 / 差分)
 
+* [2842. Count K-Subsequences of a String With Maximum Beauty](https://github.com/Woodyiiiiiii/LeetCode/issues/290) (组合数学C/A)
+
 * * *
 
 **Binary Search**
