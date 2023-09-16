@@ -435,6 +435,8 @@
 
 * [2846. Minimum Edge Weight Equilibrium Queries in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/289) (LCA模版)
 
+* [2850. Minimum Moves to Spread Stones Over Grid](https://github.com/Woodyiiiiiii/LeetCode/issues/291) (全排列)
+
 * * *
 
 **DP**
