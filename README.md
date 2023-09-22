@@ -53,6 +53,8 @@
 
 * [2772. Apply Operations to Make All Array Elements Equal to Zero](https://github.com/Woodyiiiiiii/LeetCode/issues/277) (**差分数组**)
 
+* [2857. Count Pairs of Points With Distance k](https://github.com/Woodyiiiiiii/LeetCode/issues/293) (枚举 / thinking)
+
 * * *
 
 **Array**
