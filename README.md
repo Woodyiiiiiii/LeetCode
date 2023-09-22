@@ -159,6 +159,8 @@
 
 * [69. Sqrt(x)](https://github.com/Woodyiiiiiii/LeetCode/issues/287) (某du外包题)
 
+* [2856. Minimum Array Length After Pair Removals](https://github.com/Woodyiiiiiii/LeetCode/issues/292) (贪心 / 二分)
+
 * * * 
 
 **Top K**
