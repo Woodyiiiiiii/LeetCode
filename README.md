@@ -401,6 +401,8 @@
 
 * [2673. Make Costs of Paths Equal in a Binary Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/254) (树上DFS/归并贪心)
 
+* [2858. Minimum Edge Reversals So Every Node Is Reachable](https://github.com/Woodyiiiiiii/LeetCode/issues/294) (rerooting / 换根DP)
+
 * * *
 
 **Graph**
