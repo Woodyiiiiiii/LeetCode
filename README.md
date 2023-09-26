@@ -309,6 +309,8 @@
 
 * [1631. Path With Minimum Effort](https://github.com/Woodyiiiiiii/LeetCode/issues/282) (多源BFS)
 
+* [847. Shortest Path Visiting All Nodes](https://github.com/Woodyiiiiiii/LeetCode/issues/295)
+
 * * *
 
 **Backtracking**
