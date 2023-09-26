@@ -221,6 +221,8 @@
 
 * [2818. Apply Operations to Maximize Score](https://github.com/Woodyiiiiiii/LeetCode/issues/284) (单调栈 + 贡献法 + 质因数 + 快速幂)
 
+* [2866. Beautiful Towers II](https://github.com/Woodyiiiiiii/LeetCode/issues/296) (单调栈 + 前后缀分解)
+
 * * *
 
 **Sliding Window & Two Points**
