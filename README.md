@@ -447,6 +447,8 @@
 
 * [2850. Minimum Moves to Spread Stones Over Grid](https://github.com/Woodyiiiiiii/LeetCode/issues/291) (全排列)
 
+* [2876. Count Visited Nodes in a Directed Graph](https://github.com/Woodyiiiiiii/LeetCode/issues/297) (**内向基环树** / **拓扑排序**)
+
 * * *
 
 **DP**
