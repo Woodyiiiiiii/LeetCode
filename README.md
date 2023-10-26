@@ -253,8 +253,6 @@
 
 * [2747. Count Zero Request Servers](https://github.com/Woodyiiiiiii/LeetCode/issues/271) (**Sort** + Sliding Window)
 
-* [1793. Maximum Score of a Good Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/298) (**Two Pointers + Greedy**)
-
 * * *
 
 **String**
