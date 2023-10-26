@@ -225,7 +225,7 @@
 
 * * *
 
-**Sliding Window & Two Points**
+**Sliding Window & Two Pointers**
 
 * [209. Minimum Size Subarray Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/38)
 
@@ -252,6 +252,8 @@
 * [1793. Maximum Score of a Good Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/251) (Greedy + Two pointers)
 
 * [2747. Count Zero Request Servers](https://github.com/Woodyiiiiiii/LeetCode/issues/271) (**Sort** + Sliding Window)
+
+* [1793. Maximum Score of a Good Subarray](https://github.com/Woodyiiiiiii/LeetCode/issues/298) (**Two Pointers + Greedy**)
 
 * * *
 
