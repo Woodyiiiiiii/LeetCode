@@ -337,6 +337,8 @@
 
 * [2698. Find the Punishment Number of an Integer](https://github.com/Woodyiiiiiii/LeetCode/issues/258) (Backtracking + 预处理)
 
+* [421. Maximum XOR of Two Numbers in an Array](https://github.com/Woodyiiiiiii/LeetCode/issues/299) (Trie)
+
 * * *
 
 **Greedy**
