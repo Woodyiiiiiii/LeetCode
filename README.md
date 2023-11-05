@@ -621,6 +621,8 @@
 
 * [97. Interleaving String](https://github.com/Woodyiiiiiii/LeetCode/issues/286) (自己重新做一遍)
 
+* [2919. Minimum Increment Operations to Make Array Beautiful](https://github.com/Woodyiiiiiii/LeetCode/issues/300)
+
 * * *
 
 **Others**
