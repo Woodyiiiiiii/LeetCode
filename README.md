@@ -253,7 +253,7 @@
 
 * [2747. Count Zero Request Servers](https://github.com/Woodyiiiiiii/LeetCode/issues/271) (**Sort** + Sliding Window)
 
-* [1838. Frequency of the Most Frequent Element](https://github.com/Woodyiiiiiii/LeetCode/issues/301)
+* [1838. Frequency of the Most Frequent Element](https://github.com/Woodyiiiiiii/LeetCode/issues/301) (**Cnt** + Greedy + Sliding Window)
 
 * * *
 
