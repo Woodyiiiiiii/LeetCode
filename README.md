@@ -135,6 +135,8 @@
 
 * [2842. Count K-Subsequences of a String With Maximum Beauty](https://github.com/Woodyiiiiiii/LeetCode/issues/290) (组合数学C/A)
 
+* [2963. Count the Number of Good Partitions](https://github.com/Woodyiiiiiii/LeetCode/issues/302) (区间)
+
 * * *
 
 **Binary Search**
