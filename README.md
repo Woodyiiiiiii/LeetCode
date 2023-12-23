@@ -369,6 +369,8 @@
 
 * [1899. Merge Triplets to Form Target Triplet](https://github.com/Woodyiiiiiii/LeetCode/issues/245) (Greedy)
 
+* [2967. Minimum Cost to Make Array Equalindromic](https://github.com/Woodyiiiiiii/LeetCode/issues/303) (Greedy + Math + Binary Search)
+
 * * *
 
 **Tree**
