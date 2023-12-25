@@ -371,6 +371,8 @@
 
 * [2967. Minimum Cost to Make Array Equalindromic](https://github.com/Woodyiiiiiii/LeetCode/issues/303) (Greedy + Math + Binary Search)
 
+* [Codeforces Round 913 (Div.3) C. Removal of Unattractive Pairs](https://github.com/Woodyiiiiiii/LeetCode/issues/304) (Greedy)
+
 * * *
 
 **Tree**
