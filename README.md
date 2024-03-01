@@ -459,6 +459,8 @@
 
 * [2876. Count Visited Nodes in a Directed Graph](https://github.com/Woodyiiiiiii/LeetCode/issues/297) (**内向基环树** / **拓扑排序**)
 
+* [2867. Count Valid Paths in a Tree](https://github.com/Woodyiiiiiii/LeetCode/issues/305) (**DFS** / **并查集** / **染色**)
+
 * * *
 
 **DP**
