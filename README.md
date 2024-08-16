@@ -257,6 +257,8 @@
 
 * [1838. Frequency of the Most Frequent Element](https://github.com/Woodyiiiiiii/LeetCode/issues/301) (**Cnt** + Greedy + Sliding Window)
 
+* [719. Find K-th Smallest Pair Distance](https://github.com/Woodyiiiiiii/LeetCode/issues/306) (Binary Search + Sliding Window)
+
 * * *
 
 **String**
