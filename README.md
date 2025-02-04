@@ -137,6 +137,8 @@
 
 * [2963. Count the Number of Good Partitions](https://github.com/Woodyiiiiiii/LeetCode/issues/302) (区间)
 
+* [3428. Maximum and Minimum Sums of at Most Size K Subsequences](https://github.com/Woodyiiiiiii/LeetCode/issues/307) (combinatrics组合数学 / Math)
+
 * * *
 
 **Binary Search**
