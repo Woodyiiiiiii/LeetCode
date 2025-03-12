@@ -183,6 +183,8 @@
 
 * [2813. Maximum Elegance of a K-Length Subsequence](https://github.com/Woodyiiiiiii/LeetCode/issues/283) (堆/排序)
 
+* [Leetcode 3478. Choose K Elements With Maximum Sum](https://github.com/Woodyiiiiiii/LeetCode/issues/308) (Heap / Sort)
+
 * * *
 
 **Linkedlist**
